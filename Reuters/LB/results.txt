@@ -1,0 +1,38 @@
+************************************
+group 10: size = 22, anomscore = -7.824184, anomlbl = ship, recall = 0.232143, precision = 0.590909, auc = 0.088356, f1 = 0.333333
+group 0: size = 24, anomscore = -7.345263, anomlbl = ship, recall = 0.071429, precision = 0.166667, auc = 0.006291, f1 = 0.100000
+M = 14, F1-score = 0.216667
+************************************
+group 0: size = 23, anomscore = -8.039994, anomlbl = ship, recall = 0.303571, precision = 0.739130, auc = 0.159369, f1 = 0.430380
+group 4: size = 12, anomscore = -7.381263, anomlbl = ship, recall = 0.017857, precision = 0.083333, auc = 0.000744, f1 = 0.029412
+M = 16, F1-score = 0.229896
+************************************
+group 16: size = 32, anomscore = -7.843506, anomlbl = ship, recall = 0.339286, precision = 0.593750, auc = 0.130079, f1 = 0.431818
+group 10: size = 24, anomscore = -7.652751, anomlbl = ship, recall = 0.267857, precision = 0.625000, auc = 0.110082, f1 = 0.375000
+M = 18, F1-score = 0.403409
+************************************
+group 8: size = 32, anomscore = -7.387420, anomlbl = coffee, recall = 0.341176, precision = 0.906250, auc = 0.257310, f1 = 0.495726
+group 15: size = 43, anomscore = -7.370923, anomlbl = ship, recall = 0.285714, precision = 0.372093, auc = 0.061309, f1 = 0.323232
+M = 20, F1-score = 0.409479
+************************************
+group 10: size = 23, anomscore = -7.988790, anomlbl = ship, recall = 0.285714, precision = 0.695652, auc = 0.136824, f1 = 0.405063
+group 12: size = 47, anomscore = -7.447532, anomlbl = ship, recall = 0.357143, precision = 0.425532, auc = 0.092208, f1 = 0.388350
+M = 22, F1-score = 0.396706
+************************************
+group 0: size = 16, anomscore = -7.930144, anomlbl = ship, recall = 0.250000, precision = 0.875000, auc = 0.175019, f1 = 0.388889
+group 23: size = 12, anomscore = -7.766547, anomlbl = ship, recall = 0.107143, precision = 0.500000, auc = 0.032692, f1 = 0.176471
+M = 24, F1-score = 0.282680
+************************************
+group 22: size = 23, anomscore = -8.000541, anomlbl = ship, recall = 0.321429, precision = 0.782609, auc = 0.184891, f1 = 0.455696
+group 0: size = 19, anomscore = -7.555428, anomlbl = ship, recall = 0.250000, precision = 0.736842, auc = 0.130528, f1 = 0.373333
+M = 26, F1-score = 0.414515
+************************************
+group 19: size = 24, anomscore = -7.957200, anomlbl = ship, recall = 0.357143, precision = 0.833333, auc = 0.228801, f1 = 0.500000
+group 16: size = 22, anomscore = -7.518872, anomlbl = ship, recall = 0.267857, precision = 0.681818, auc = 0.124525, f1 = 0.384615
+M = 28, F1-score = 0.442308
+************************************
+group 27: size = 17, anomscore = -7.955347, anomlbl = ship, recall = 0.250000, precision = 0.823529, auc = 0.156600, f1 = 0.383562
+group 6: size = 11, anomscore = -7.615172, anomlbl = ship, recall = 0.107143, precision = 0.545455, auc = 0.036510, f1 = 0.179104
+M = 30, F1-score = 0.281333
+############################################
+Best F1-score: M = 28, F1-score = 0.442308

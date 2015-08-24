@@ -1,0 +1,254 @@
+recall = 0.124031, precision = 0.148837, auc = 0.020923, f1 = 0.135307
+M = 14, K = 2, F1-score = 0.135307
+recall = 0.127907, precision = 0.153488, auc = 0.019951, f1 = 0.139535
+M = 14, K = 4, F1-score = 0.139535
+recall = 0.131783, precision = 0.158140, auc = 0.019416, f1 = 0.143763
+M = 14, K = 6, F1-score = 0.143763
+recall = 0.127907, precision = 0.153488, auc = 0.018915, f1 = 0.139535
+M = 14, K = 8, F1-score = 0.139535
+recall = 0.127907, precision = 0.153488, auc = 0.018598, f1 = 0.139535
+M = 14, K = 10, F1-score = 0.139535
+recall = 0.116279, precision = 0.139535, auc = 0.016921, f1 = 0.126850
+M = 14, K = 12, F1-score = 0.126850
+recall = 0.116279, precision = 0.139535, auc = 0.016369, f1 = 0.126850
+M = 14, K = 14, F1-score = 0.126850
+recall = 0.124031, precision = 0.148837, auc = 0.016943, f1 = 0.135307
+M = 14, K = 16, F1-score = 0.135307
+recall = 0.120155, precision = 0.144186, auc = 0.015756, f1 = 0.131078
+M = 14, K = 18, F1-score = 0.131078
+recall = 0.112403, precision = 0.134884, auc = 0.014162, f1 = 0.122622
+M = 14, K = 20, F1-score = 0.122622
+recall = 0.112403, precision = 0.134884, auc = 0.015447, f1 = 0.122622
+M = 14, K = 22, F1-score = 0.122622
+recall = 0.104651, precision = 0.125581, auc = 0.015211, f1 = 0.114165
+M = 14, K = 24, F1-score = 0.114165
+recall = 0.108527, precision = 0.130233, auc = 0.015332, f1 = 0.118393
+M = 14, K = 26, F1-score = 0.118393
+recall = 0.104651, precision = 0.125581, auc = 0.014625, f1 = 0.114165
+M = 14, K = 28, F1-score = 0.114165
+recall = 0.244186, precision = 0.293023, auc = 0.089602, f1 = 0.266385
+M = 16, K = 2, F1-score = 0.266385
+recall = 0.255814, precision = 0.306977, auc = 0.085467, f1 = 0.279070
+M = 16, K = 4, F1-score = 0.279070
+recall = 0.244186, precision = 0.293023, auc = 0.084333, f1 = 0.266385
+M = 16, K = 6, F1-score = 0.266385
+recall = 0.236434, precision = 0.283721, auc = 0.079400, f1 = 0.257928
+M = 16, K = 8, F1-score = 0.257928
+recall = 0.248062, precision = 0.297674, auc = 0.085305, f1 = 0.270613
+M = 16, K = 10, F1-score = 0.270613
+recall = 0.236434, precision = 0.283721, auc = 0.075119, f1 = 0.257928
+M = 16, K = 12, F1-score = 0.257928
+recall = 0.232558, precision = 0.279070, auc = 0.072886, f1 = 0.253700
+M = 16, K = 14, F1-score = 0.253700
+recall = 0.236434, precision = 0.283721, auc = 0.076839, f1 = 0.257928
+M = 16, K = 16, F1-score = 0.257928
+recall = 0.224806, precision = 0.269767, auc = 0.075560, f1 = 0.245243
+M = 16, K = 18, F1-score = 0.245243
+recall = 0.217054, precision = 0.260465, auc = 0.073672, f1 = 0.236786
+M = 16, K = 20, F1-score = 0.236786
+recall = 0.224806, precision = 0.269767, auc = 0.075918, f1 = 0.245243
+M = 16, K = 22, F1-score = 0.245243
+recall = 0.224806, precision = 0.269767, auc = 0.074457, f1 = 0.245243
+M = 16, K = 24, F1-score = 0.245243
+recall = 0.213178, precision = 0.255814, auc = 0.072545, f1 = 0.232558
+M = 16, K = 26, F1-score = 0.232558
+recall = 0.224806, precision = 0.269767, auc = 0.074679, f1 = 0.245243
+M = 16, K = 28, F1-score = 0.245243
+recall = 0.259690, precision = 0.311628, auc = 0.089666, f1 = 0.283298
+M = 18, K = 2, F1-score = 0.283298
+recall = 0.259690, precision = 0.311628, auc = 0.085840, f1 = 0.283298
+M = 18, K = 4, F1-score = 0.283298
+recall = 0.251938, precision = 0.302326, auc = 0.083595, f1 = 0.274841
+M = 18, K = 6, F1-score = 0.274841
+recall = 0.248062, precision = 0.297674, auc = 0.079395, f1 = 0.270613
+M = 18, K = 8, F1-score = 0.270613
+recall = 0.248062, precision = 0.297674, auc = 0.076892, f1 = 0.270613
+M = 18, K = 10, F1-score = 0.270613
+recall = 0.255814, precision = 0.306977, auc = 0.078372, f1 = 0.279070
+M = 18, K = 12, F1-score = 0.279070
+recall = 0.255814, precision = 0.306977, auc = 0.078183, f1 = 0.279070
+M = 18, K = 14, F1-score = 0.279070
+recall = 0.251938, precision = 0.302326, auc = 0.079063, f1 = 0.274841
+M = 18, K = 16, F1-score = 0.274841
+recall = 0.251938, precision = 0.302326, auc = 0.079554, f1 = 0.274841
+M = 18, K = 18, F1-score = 0.274841
+recall = 0.251938, precision = 0.302326, auc = 0.080922, f1 = 0.274841
+M = 18, K = 20, F1-score = 0.274841
+recall = 0.248062, precision = 0.297674, auc = 0.080598, f1 = 0.270613
+M = 18, K = 22, F1-score = 0.270613
+recall = 0.251938, precision = 0.302326, auc = 0.080382, f1 = 0.274841
+M = 18, K = 24, F1-score = 0.274841
+recall = 0.244186, precision = 0.293023, auc = 0.078252, f1 = 0.266385
+M = 18, K = 26, F1-score = 0.266385
+recall = 0.240310, precision = 0.288372, auc = 0.076758, f1 = 0.262156
+M = 18, K = 28, F1-score = 0.262156
+recall = 0.279070, precision = 0.334884, auc = 0.111931, f1 = 0.304440
+M = 20, K = 2, F1-score = 0.304440
+recall = 0.271318, precision = 0.325581, auc = 0.100545, f1 = 0.295983
+M = 20, K = 4, F1-score = 0.295983
+recall = 0.259690, precision = 0.311628, auc = 0.094003, f1 = 0.283298
+M = 20, K = 6, F1-score = 0.283298
+recall = 0.244186, precision = 0.293023, auc = 0.086802, f1 = 0.266385
+M = 20, K = 8, F1-score = 0.266385
+recall = 0.240310, precision = 0.288372, auc = 0.083559, f1 = 0.262156
+M = 20, K = 10, F1-score = 0.262156
+recall = 0.240310, precision = 0.288372, auc = 0.082421, f1 = 0.262156
+M = 20, K = 12, F1-score = 0.262156
+recall = 0.240310, precision = 0.288372, auc = 0.083257, f1 = 0.262156
+M = 20, K = 14, F1-score = 0.262156
+recall = 0.240310, precision = 0.288372, auc = 0.082080, f1 = 0.262156
+M = 20, K = 16, F1-score = 0.262156
+recall = 0.240310, precision = 0.288372, auc = 0.083162, f1 = 0.262156
+M = 20, K = 18, F1-score = 0.262156
+recall = 0.240310, precision = 0.288372, auc = 0.081110, f1 = 0.262156
+M = 20, K = 20, F1-score = 0.262156
+recall = 0.232558, precision = 0.279070, auc = 0.078193, f1 = 0.253700
+M = 20, K = 22, F1-score = 0.253700
+recall = 0.228682, precision = 0.274419, auc = 0.077998, f1 = 0.249471
+M = 20, K = 24, F1-score = 0.249471
+recall = 0.224806, precision = 0.269767, auc = 0.077180, f1 = 0.245243
+M = 20, K = 26, F1-score = 0.245243
+recall = 0.220930, precision = 0.265116, auc = 0.072549, f1 = 0.241015
+M = 20, K = 28, F1-score = 0.241015
+recall = 0.193798, precision = 0.232558, auc = 0.049287, f1 = 0.211416
+M = 22, K = 2, F1-score = 0.211416
+recall = 0.197674, precision = 0.237209, auc = 0.049711, f1 = 0.215645
+M = 22, K = 4, F1-score = 0.215645
+recall = 0.189922, precision = 0.227907, auc = 0.046728, f1 = 0.207188
+M = 22, K = 6, F1-score = 0.207188
+recall = 0.186047, precision = 0.223256, auc = 0.046160, f1 = 0.202960
+M = 22, K = 8, F1-score = 0.202960
+recall = 0.178295, precision = 0.213953, auc = 0.045559, f1 = 0.194503
+M = 22, K = 10, F1-score = 0.194503
+recall = 0.178295, precision = 0.213953, auc = 0.044743, f1 = 0.194503
+M = 22, K = 12, F1-score = 0.194503
+recall = 0.170543, precision = 0.204651, auc = 0.041638, f1 = 0.186047
+M = 22, K = 14, F1-score = 0.186047
+recall = 0.166667, precision = 0.200000, auc = 0.039245, f1 = 0.181818
+M = 22, K = 16, F1-score = 0.181818
+recall = 0.162791, precision = 0.195349, auc = 0.039480, f1 = 0.177590
+M = 22, K = 18, F1-score = 0.177590
+recall = 0.158915, precision = 0.190698, auc = 0.037307, f1 = 0.173362
+M = 22, K = 20, F1-score = 0.173362
+recall = 0.166667, precision = 0.200000, auc = 0.037315, f1 = 0.181818
+M = 22, K = 22, F1-score = 0.181818
+recall = 0.166667, precision = 0.200000, auc = 0.037348, f1 = 0.181818
+M = 22, K = 24, F1-score = 0.181818
+recall = 0.166667, precision = 0.200000, auc = 0.036888, f1 = 0.181818
+M = 22, K = 26, F1-score = 0.181818
+recall = 0.162791, precision = 0.195349, auc = 0.035901, f1 = 0.177590
+M = 22, K = 28, F1-score = 0.177590
+recall = 0.313953, precision = 0.376744, auc = 0.134491, f1 = 0.342495
+M = 24, K = 2, F1-score = 0.342495
+recall = 0.294574, precision = 0.353488, auc = 0.128671, f1 = 0.321353
+M = 24, K = 4, F1-score = 0.321353
+recall = 0.282946, precision = 0.339535, auc = 0.124136, f1 = 0.308668
+M = 24, K = 6, F1-score = 0.308668
+recall = 0.286822, precision = 0.344186, auc = 0.122269, f1 = 0.312896
+M = 24, K = 8, F1-score = 0.312896
+recall = 0.286822, precision = 0.344186, auc = 0.118909, f1 = 0.312896
+M = 24, K = 10, F1-score = 0.312896
+recall = 0.286822, precision = 0.344186, auc = 0.121464, f1 = 0.312896
+M = 24, K = 12, F1-score = 0.312896
+recall = 0.279070, precision = 0.334884, auc = 0.115198, f1 = 0.304440
+M = 24, K = 14, F1-score = 0.304440
+recall = 0.267442, precision = 0.320930, auc = 0.111503, f1 = 0.291755
+M = 24, K = 16, F1-score = 0.291755
+recall = 0.263566, precision = 0.316279, auc = 0.109956, f1 = 0.287526
+M = 24, K = 18, F1-score = 0.287526
+recall = 0.259690, precision = 0.311628, auc = 0.107062, f1 = 0.283298
+M = 24, K = 20, F1-score = 0.283298
+recall = 0.271318, precision = 0.325581, auc = 0.109411, f1 = 0.295983
+M = 24, K = 22, F1-score = 0.295983
+recall = 0.263566, precision = 0.316279, auc = 0.107449, f1 = 0.287526
+M = 24, K = 24, F1-score = 0.287526
+recall = 0.259690, precision = 0.311628, auc = 0.106498, f1 = 0.283298
+M = 24, K = 26, F1-score = 0.283298
+recall = 0.255814, precision = 0.306977, auc = 0.106104, f1 = 0.279070
+M = 24, K = 28, F1-score = 0.279070
+recall = 0.189922, precision = 0.227907, auc = 0.047036, f1 = 0.207188
+M = 26, K = 2, F1-score = 0.207188
+recall = 0.189922, precision = 0.227907, auc = 0.048059, f1 = 0.207188
+M = 26, K = 4, F1-score = 0.207188
+recall = 0.189922, precision = 0.227907, auc = 0.045919, f1 = 0.207188
+M = 26, K = 6, F1-score = 0.207188
+recall = 0.186047, precision = 0.223256, auc = 0.044517, f1 = 0.202960
+M = 26, K = 8, F1-score = 0.202960
+recall = 0.178295, precision = 0.213953, auc = 0.040607, f1 = 0.194503
+M = 26, K = 10, F1-score = 0.194503
+recall = 0.174419, precision = 0.209302, auc = 0.039363, f1 = 0.190275
+M = 26, K = 12, F1-score = 0.190275
+recall = 0.166667, precision = 0.200000, auc = 0.036942, f1 = 0.181818
+M = 26, K = 14, F1-score = 0.181818
+recall = 0.166667, precision = 0.200000, auc = 0.035937, f1 = 0.181818
+M = 26, K = 16, F1-score = 0.181818
+recall = 0.170543, precision = 0.204651, auc = 0.035200, f1 = 0.186047
+M = 26, K = 18, F1-score = 0.186047
+recall = 0.162791, precision = 0.195349, auc = 0.033755, f1 = 0.177590
+M = 26, K = 20, F1-score = 0.177590
+recall = 0.155039, precision = 0.186047, auc = 0.032546, f1 = 0.169133
+M = 26, K = 22, F1-score = 0.169133
+recall = 0.155039, precision = 0.186047, auc = 0.031654, f1 = 0.169133
+M = 26, K = 24, F1-score = 0.169133
+recall = 0.151163, precision = 0.181395, auc = 0.030262, f1 = 0.164905
+M = 26, K = 26, F1-score = 0.164905
+recall = 0.147287, precision = 0.176744, auc = 0.030160, f1 = 0.160677
+M = 26, K = 28, F1-score = 0.160677
+recall = 0.236434, precision = 0.283721, auc = 0.077461, f1 = 0.257928
+M = 28, K = 2, F1-score = 0.257928
+recall = 0.228682, precision = 0.274419, auc = 0.074924, f1 = 0.249471
+M = 28, K = 4, F1-score = 0.249471
+recall = 0.240310, precision = 0.288372, auc = 0.079749, f1 = 0.262156
+M = 28, K = 6, F1-score = 0.262156
+recall = 0.228682, precision = 0.274419, auc = 0.074325, f1 = 0.249471
+M = 28, K = 8, F1-score = 0.249471
+recall = 0.217054, precision = 0.260465, auc = 0.069705, f1 = 0.236786
+M = 28, K = 10, F1-score = 0.236786
+recall = 0.213178, precision = 0.255814, auc = 0.067671, f1 = 0.232558
+M = 28, K = 12, F1-score = 0.232558
+recall = 0.213178, precision = 0.255814, auc = 0.066200, f1 = 0.232558
+M = 28, K = 14, F1-score = 0.232558
+recall = 0.201550, precision = 0.241860, auc = 0.059896, f1 = 0.219873
+M = 28, K = 16, F1-score = 0.219873
+recall = 0.209302, precision = 0.251163, auc = 0.061085, f1 = 0.228330
+M = 28, K = 18, F1-score = 0.228330
+recall = 0.209302, precision = 0.251163, auc = 0.057760, f1 = 0.228330
+M = 28, K = 20, F1-score = 0.228330
+recall = 0.213178, precision = 0.255814, auc = 0.058084, f1 = 0.232558
+M = 28, K = 22, F1-score = 0.232558
+recall = 0.209302, precision = 0.251163, auc = 0.058469, f1 = 0.228330
+M = 28, K = 24, F1-score = 0.228330
+recall = 0.213178, precision = 0.255814, auc = 0.058210, f1 = 0.232558
+M = 28, K = 26, F1-score = 0.232558
+recall = 0.217054, precision = 0.260465, auc = 0.057574, f1 = 0.236786
+M = 28, K = 28, F1-score = 0.236786
+recall = 0.302326, precision = 0.362791, auc = 0.126686, f1 = 0.329810
+M = 30, K = 2, F1-score = 0.329810
+recall = 0.302326, precision = 0.362791, auc = 0.126611, f1 = 0.329810
+M = 30, K = 4, F1-score = 0.329810
+recall = 0.279070, precision = 0.334884, auc = 0.110294, f1 = 0.304440
+M = 30, K = 6, F1-score = 0.304440
+recall = 0.286822, precision = 0.344186, auc = 0.108346, f1 = 0.312896
+M = 30, K = 8, F1-score = 0.312896
+recall = 0.290698, precision = 0.348837, auc = 0.108746, f1 = 0.317125
+M = 30, K = 10, F1-score = 0.317125
+recall = 0.286822, precision = 0.344186, auc = 0.104387, f1 = 0.312896
+M = 30, K = 12, F1-score = 0.312896
+recall = 0.286822, precision = 0.344186, auc = 0.106818, f1 = 0.312896
+M = 30, K = 14, F1-score = 0.312896
+recall = 0.282946, precision = 0.339535, auc = 0.102422, f1 = 0.308668
+M = 30, K = 16, F1-score = 0.308668
+recall = 0.271318, precision = 0.325581, auc = 0.098743, f1 = 0.295983
+M = 30, K = 18, F1-score = 0.295983
+recall = 0.279070, precision = 0.334884, auc = 0.098108, f1 = 0.304440
+M = 30, K = 20, F1-score = 0.304440
+recall = 0.271318, precision = 0.325581, auc = 0.097102, f1 = 0.295983
+M = 30, K = 22, F1-score = 0.295983
+recall = 0.267442, precision = 0.320930, auc = 0.098604, f1 = 0.291755
+M = 30, K = 24, F1-score = 0.291755
+recall = 0.263566, precision = 0.316279, auc = 0.098782, f1 = 0.287526
+M = 30, K = 26, F1-score = 0.287526
+recall = 0.259690, precision = 0.311628, auc = 0.098556, f1 = 0.283298
+M = 30, K = 28, F1-score = 0.283298
+############################################
+Best F1-score: M = 24, K = 2, F1-score = 0.342495

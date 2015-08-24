@@ -1,0 +1,506 @@
+************************************
+group 7: size = 24, anomscore = 0.144150, anomlbl = ship, recall = 0.071429, precision = 0.166667, auc = 0.006291, f1 = 0.100000
+group 12: size = 53, anomscore = 0.158198, anomlbl = coffee, recall = 0.152941, precision = 0.245283, auc = 0.020501, f1 = 0.188406
+M = 14, K = 2, F1-score = 0.144203
+************************************
+group 12: size = 53, anomscore = 0.162159, anomlbl = coffee, recall = 0.152941, precision = 0.245283, auc = 0.020501, f1 = 0.188406
+group 7: size = 24, anomscore = 0.162223, anomlbl = ship, recall = 0.071429, precision = 0.166667, auc = 0.006291, f1 = 0.100000
+M = 14, K = 4, F1-score = 0.144203
+************************************
+group 12: size = 53, anomscore = 0.168810, anomlbl = coffee, recall = 0.152941, precision = 0.245283, auc = 0.020501, f1 = 0.188406
+group 7: size = 24, anomscore = 0.171270, anomlbl = ship, recall = 0.071429, precision = 0.166667, auc = 0.006291, f1 = 0.100000
+M = 14, K = 6, F1-score = 0.144203
+************************************
+group 12: size = 53, anomscore = 0.175749, anomlbl = coffee, recall = 0.152941, precision = 0.245283, auc = 0.020501, f1 = 0.188406
+group 7: size = 24, anomscore = 0.177826, anomlbl = ship, recall = 0.071429, precision = 0.166667, auc = 0.006291, f1 = 0.100000
+M = 14, K = 8, F1-score = 0.144203
+************************************
+group 12: size = 53, anomscore = 0.174269, anomlbl = coffee, recall = 0.152941, precision = 0.245283, auc = 0.020501, f1 = 0.188406
+group 7: size = 24, anomscore = 0.179838, anomlbl = ship, recall = 0.071429, precision = 0.166667, auc = 0.006291, f1 = 0.100000
+M = 14, K = 10, F1-score = 0.144203
+************************************
+group 12: size = 53, anomscore = 0.174522, anomlbl = coffee, recall = 0.152941, precision = 0.245283, auc = 0.020501, f1 = 0.188406
+group 7: size = 24, anomscore = 0.181014, anomlbl = ship, recall = 0.071429, precision = 0.166667, auc = 0.006291, f1 = 0.100000
+M = 14, K = 12, F1-score = 0.144203
+************************************
+group 12: size = 53, anomscore = 0.173610, anomlbl = coffee, recall = 0.152941, precision = 0.245283, auc = 0.020501, f1 = 0.188406
+group 7: size = 24, anomscore = 0.183166, anomlbl = ship, recall = 0.071429, precision = 0.166667, auc = 0.006291, f1 = 0.100000
+M = 14, K = 14, F1-score = 0.144203
+************************************
+group 12: size = 53, anomscore = 0.174756, anomlbl = coffee, recall = 0.152941, precision = 0.245283, auc = 0.020501, f1 = 0.188406
+group 7: size = 24, anomscore = 0.182867, anomlbl = ship, recall = 0.071429, precision = 0.166667, auc = 0.006291, f1 = 0.100000
+M = 14, K = 16, F1-score = 0.144203
+************************************
+group 12: size = 53, anomscore = 0.172933, anomlbl = coffee, recall = 0.152941, precision = 0.245283, auc = 0.020501, f1 = 0.188406
+group 7: size = 24, anomscore = 0.183505, anomlbl = ship, recall = 0.071429, precision = 0.166667, auc = 0.006291, f1 = 0.100000
+M = 14, K = 18, F1-score = 0.144203
+************************************
+group 12: size = 53, anomscore = 0.175117, anomlbl = coffee, recall = 0.152941, precision = 0.245283, auc = 0.020501, f1 = 0.188406
+group 7: size = 24, anomscore = 0.184541, anomlbl = ship, recall = 0.071429, precision = 0.166667, auc = 0.006291, f1 = 0.100000
+M = 14, K = 20, F1-score = 0.144203
+************************************
+group 12: size = 53, anomscore = 0.173971, anomlbl = coffee, recall = 0.152941, precision = 0.245283, auc = 0.020501, f1 = 0.188406
+group 7: size = 24, anomscore = 0.185537, anomlbl = ship, recall = 0.071429, precision = 0.166667, auc = 0.006291, f1 = 0.100000
+M = 14, K = 22, F1-score = 0.144203
+************************************
+group 12: size = 53, anomscore = 0.173845, anomlbl = coffee, recall = 0.152941, precision = 0.245283, auc = 0.020501, f1 = 0.188406
+group 7: size = 24, anomscore = 0.185059, anomlbl = ship, recall = 0.071429, precision = 0.166667, auc = 0.006291, f1 = 0.100000
+M = 14, K = 24, F1-score = 0.144203
+************************************
+group 12: size = 53, anomscore = 0.176326, anomlbl = coffee, recall = 0.152941, precision = 0.245283, auc = 0.020501, f1 = 0.188406
+group 7: size = 24, anomscore = 0.184322, anomlbl = ship, recall = 0.071429, precision = 0.166667, auc = 0.006291, f1 = 0.100000
+M = 14, K = 26, F1-score = 0.144203
+************************************
+group 12: size = 53, anomscore = 0.176227, anomlbl = coffee, recall = 0.152941, precision = 0.245283, auc = 0.020501, f1 = 0.188406
+group 7: size = 24, anomscore = 0.180575, anomlbl = ship, recall = 0.071429, precision = 0.166667, auc = 0.006291, f1 = 0.100000
+M = 14, K = 28, F1-score = 0.144203
+************************************
+group 5: size = 41, anomscore = 0.163721, anomlbl = ship, recall = 0.089286, precision = 0.121951, auc = 0.005671, f1 = 0.103093
+group 2: size = 19, anomscore = 0.180599, anomlbl = coffee, recall = 0.047059, precision = 0.210526, auc = 0.005319, f1 = 0.076923
+M = 16, K = 2, F1-score = 0.090008
+************************************
+group 5: size = 41, anomscore = 0.163232, anomlbl = ship, recall = 0.089286, precision = 0.121951, auc = 0.005671, f1 = 0.103093
+group 2: size = 19, anomscore = 0.187621, anomlbl = coffee, recall = 0.047059, precision = 0.210526, auc = 0.005319, f1 = 0.076923
+M = 16, K = 4, F1-score = 0.090008
+************************************
+group 5: size = 41, anomscore = 0.166731, anomlbl = ship, recall = 0.089286, precision = 0.121951, auc = 0.005671, f1 = 0.103093
+group 2: size = 19, anomscore = 0.190893, anomlbl = coffee, recall = 0.047059, precision = 0.210526, auc = 0.005319, f1 = 0.076923
+M = 16, K = 6, F1-score = 0.090008
+************************************
+group 5: size = 41, anomscore = 0.170790, anomlbl = ship, recall = 0.089286, precision = 0.121951, auc = 0.005671, f1 = 0.103093
+group 2: size = 19, anomscore = 0.187923, anomlbl = coffee, recall = 0.047059, precision = 0.210526, auc = 0.005319, f1 = 0.076923
+M = 16, K = 8, F1-score = 0.090008
+************************************
+group 5: size = 41, anomscore = 0.169927, anomlbl = ship, recall = 0.089286, precision = 0.121951, auc = 0.005671, f1 = 0.103093
+group 2: size = 19, anomscore = 0.184777, anomlbl = coffee, recall = 0.047059, precision = 0.210526, auc = 0.005319, f1 = 0.076923
+M = 16, K = 10, F1-score = 0.090008
+************************************
+group 5: size = 41, anomscore = 0.170067, anomlbl = ship, recall = 0.089286, precision = 0.121951, auc = 0.005671, f1 = 0.103093
+group 2: size = 19, anomscore = 0.176294, anomlbl = coffee, recall = 0.047059, precision = 0.210526, auc = 0.005319, f1 = 0.076923
+M = 16, K = 12, F1-score = 0.090008
+************************************
+group 5: size = 41, anomscore = 0.166789, anomlbl = ship, recall = 0.089286, precision = 0.121951, auc = 0.005671, f1 = 0.103093
+group 15: size = 16, anomscore = 0.170881, anomlbl = coffee, recall = 0.047059, precision = 0.250000, auc = 0.006409, f1 = 0.079208
+M = 16, K = 14, F1-score = 0.091150
+************************************
+group 15: size = 16, anomscore = 0.161526, anomlbl = coffee, recall = 0.047059, precision = 0.250000, auc = 0.006409, f1 = 0.079208
+group 5: size = 41, anomscore = 0.168247, anomlbl = ship, recall = 0.089286, precision = 0.121951, auc = 0.005671, f1 = 0.103093
+M = 16, K = 16, F1-score = 0.091150
+************************************
+group 15: size = 16, anomscore = 0.145086, anomlbl = coffee, recall = 0.047059, precision = 0.250000, auc = 0.006409, f1 = 0.079208
+group 2: size = 19, anomscore = 0.163231, anomlbl = coffee, recall = 0.047059, precision = 0.210526, auc = 0.005319, f1 = 0.076923
+M = 16, K = 18, F1-score = 0.078065
+************************************
+group 15: size = 16, anomscore = 0.139258, anomlbl = coffee, recall = 0.047059, precision = 0.250000, auc = 0.006409, f1 = 0.079208
+group 2: size = 19, anomscore = 0.159405, anomlbl = coffee, recall = 0.047059, precision = 0.210526, auc = 0.005319, f1 = 0.076923
+M = 16, K = 20, F1-score = 0.078065
+************************************
+group 15: size = 16, anomscore = 0.131426, anomlbl = coffee, recall = 0.047059, precision = 0.250000, auc = 0.006409, f1 = 0.079208
+group 2: size = 19, anomscore = 0.152735, anomlbl = coffee, recall = 0.047059, precision = 0.210526, auc = 0.005319, f1 = 0.076923
+M = 16, K = 22, F1-score = 0.078065
+************************************
+group 15: size = 16, anomscore = 0.127033, anomlbl = coffee, recall = 0.047059, precision = 0.250000, auc = 0.006409, f1 = 0.079208
+group 2: size = 19, anomscore = 0.149060, anomlbl = coffee, recall = 0.047059, precision = 0.210526, auc = 0.005319, f1 = 0.076923
+M = 16, K = 24, F1-score = 0.078065
+************************************
+group 15: size = 16, anomscore = 0.115644, anomlbl = coffee, recall = 0.047059, precision = 0.250000, auc = 0.006409, f1 = 0.079208
+group 2: size = 19, anomscore = 0.149412, anomlbl = coffee, recall = 0.047059, precision = 0.210526, auc = 0.005319, f1 = 0.076923
+M = 16, K = 26, F1-score = 0.078065
+************************************
+group 15: size = 16, anomscore = 0.111699, anomlbl = coffee, recall = 0.047059, precision = 0.250000, auc = 0.006409, f1 = 0.079208
+group 2: size = 19, anomscore = 0.145737, anomlbl = coffee, recall = 0.047059, precision = 0.210526, auc = 0.005319, f1 = 0.076923
+M = 16, K = 28, F1-score = 0.078065
+************************************
+group 15: size = 11, anomscore = 0.078171, anomlbl = coffee, recall = 0.035294, precision = 0.272727, auc = 0.005264, f1 = 0.062500
+group 0: size = 24, anomscore = 0.120915, anomlbl = coffee, recall = 0.058824, precision = 0.208333, auc = 0.006584, f1 = 0.091743
+M = 18, K = 2, F1-score = 0.077122
+************************************
+group 15: size = 11, anomscore = 0.086170, anomlbl = coffee, recall = 0.035294, precision = 0.272727, auc = 0.005264, f1 = 0.062500
+group 0: size = 24, anomscore = 0.118982, anomlbl = coffee, recall = 0.058824, precision = 0.208333, auc = 0.006584, f1 = 0.091743
+M = 18, K = 4, F1-score = 0.077122
+************************************
+group 15: size = 11, anomscore = 0.090257, anomlbl = coffee, recall = 0.035294, precision = 0.272727, auc = 0.005264, f1 = 0.062500
+group 0: size = 24, anomscore = 0.120776, anomlbl = coffee, recall = 0.058824, precision = 0.208333, auc = 0.006584, f1 = 0.091743
+M = 18, K = 6, F1-score = 0.077122
+************************************
+group 15: size = 11, anomscore = 0.088996, anomlbl = coffee, recall = 0.035294, precision = 0.272727, auc = 0.005264, f1 = 0.062500
+group 0: size = 24, anomscore = 0.127690, anomlbl = coffee, recall = 0.058824, precision = 0.208333, auc = 0.006584, f1 = 0.091743
+M = 18, K = 8, F1-score = 0.077122
+************************************
+group 15: size = 11, anomscore = 0.095605, anomlbl = coffee, recall = 0.035294, precision = 0.272727, auc = 0.005264, f1 = 0.062500
+group 0: size = 24, anomscore = 0.128089, anomlbl = coffee, recall = 0.058824, precision = 0.208333, auc = 0.006584, f1 = 0.091743
+M = 18, K = 10, F1-score = 0.077122
+************************************
+group 15: size = 11, anomscore = 0.100517, anomlbl = coffee, recall = 0.035294, precision = 0.272727, auc = 0.005264, f1 = 0.062500
+group 0: size = 24, anomscore = 0.131974, anomlbl = coffee, recall = 0.058824, precision = 0.208333, auc = 0.006584, f1 = 0.091743
+M = 18, K = 12, F1-score = 0.077122
+************************************
+group 15: size = 11, anomscore = 0.105343, anomlbl = coffee, recall = 0.035294, precision = 0.272727, auc = 0.005264, f1 = 0.062500
+group 0: size = 24, anomscore = 0.130380, anomlbl = coffee, recall = 0.058824, precision = 0.208333, auc = 0.006584, f1 = 0.091743
+M = 18, K = 14, F1-score = 0.077122
+************************************
+group 15: size = 11, anomscore = 0.109908, anomlbl = coffee, recall = 0.035294, precision = 0.272727, auc = 0.005264, f1 = 0.062500
+group 0: size = 24, anomscore = 0.133389, anomlbl = coffee, recall = 0.058824, precision = 0.208333, auc = 0.006584, f1 = 0.091743
+M = 18, K = 16, F1-score = 0.077122
+************************************
+group 15: size = 11, anomscore = 0.113126, anomlbl = coffee, recall = 0.035294, precision = 0.272727, auc = 0.005264, f1 = 0.062500
+group 0: size = 24, anomscore = 0.135900, anomlbl = coffee, recall = 0.058824, precision = 0.208333, auc = 0.006584, f1 = 0.091743
+M = 18, K = 18, F1-score = 0.077122
+************************************
+group 15: size = 11, anomscore = 0.112647, anomlbl = coffee, recall = 0.035294, precision = 0.272727, auc = 0.005264, f1 = 0.062500
+group 0: size = 24, anomscore = 0.137394, anomlbl = coffee, recall = 0.058824, precision = 0.208333, auc = 0.006584, f1 = 0.091743
+M = 18, K = 20, F1-score = 0.077122
+************************************
+group 15: size = 11, anomscore = 0.112691, anomlbl = coffee, recall = 0.035294, precision = 0.272727, auc = 0.005264, f1 = 0.062500
+group 0: size = 24, anomscore = 0.137534, anomlbl = coffee, recall = 0.058824, precision = 0.208333, auc = 0.006584, f1 = 0.091743
+M = 18, K = 22, F1-score = 0.077122
+************************************
+group 15: size = 11, anomscore = 0.105995, anomlbl = coffee, recall = 0.035294, precision = 0.272727, auc = 0.005264, f1 = 0.062500
+group 0: size = 24, anomscore = 0.139188, anomlbl = coffee, recall = 0.058824, precision = 0.208333, auc = 0.006584, f1 = 0.091743
+M = 18, K = 24, F1-score = 0.077122
+************************************
+group 15: size = 11, anomscore = 0.099996, anomlbl = coffee, recall = 0.035294, precision = 0.272727, auc = 0.005264, f1 = 0.062500
+group 0: size = 24, anomscore = 0.138331, anomlbl = coffee, recall = 0.058824, precision = 0.208333, auc = 0.006584, f1 = 0.091743
+M = 18, K = 26, F1-score = 0.077122
+************************************
+group 15: size = 11, anomscore = 0.095257, anomlbl = coffee, recall = 0.035294, precision = 0.272727, auc = 0.005264, f1 = 0.062500
+group 0: size = 24, anomscore = 0.139507, anomlbl = coffee, recall = 0.058824, precision = 0.208333, auc = 0.006584, f1 = 0.091743
+M = 18, K = 28, F1-score = 0.077122
+************************************
+group 19: size = 15, anomscore = 0.082480, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002649, f1 = 0.056338
+group 10: size = 51, anomscore = 0.086102, anomlbl = coffee, recall = 0.411765, precision = 0.686275, auc = 0.193500, f1 = 0.514706
+M = 20, K = 2, F1-score = 0.285522
+************************************
+group 10: size = 51, anomscore = 0.089093, anomlbl = coffee, recall = 0.411765, precision = 0.686275, auc = 0.193500, f1 = 0.514706
+group 19: size = 15, anomscore = 0.095202, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002649, f1 = 0.056338
+M = 20, K = 4, F1-score = 0.285522
+************************************
+group 10: size = 51, anomscore = 0.090941, anomlbl = coffee, recall = 0.411765, precision = 0.686275, auc = 0.193500, f1 = 0.514706
+group 19: size = 15, anomscore = 0.107540, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002649, f1 = 0.056338
+M = 20, K = 6, F1-score = 0.285522
+************************************
+group 10: size = 51, anomscore = 0.095526, anomlbl = coffee, recall = 0.411765, precision = 0.686275, auc = 0.193500, f1 = 0.514706
+group 19: size = 15, anomscore = 0.111207, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002649, f1 = 0.056338
+M = 20, K = 8, F1-score = 0.285522
+************************************
+group 10: size = 51, anomscore = 0.092975, anomlbl = coffee, recall = 0.411765, precision = 0.686275, auc = 0.193500, f1 = 0.514706
+group 19: size = 15, anomscore = 0.116021, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002649, f1 = 0.056338
+M = 20, K = 10, F1-score = 0.285522
+************************************
+group 10: size = 51, anomscore = 0.090500, anomlbl = coffee, recall = 0.411765, precision = 0.686275, auc = 0.193500, f1 = 0.514706
+group 19: size = 15, anomscore = 0.118795, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002649, f1 = 0.056338
+M = 20, K = 12, F1-score = 0.285522
+************************************
+group 10: size = 51, anomscore = 0.089525, anomlbl = coffee, recall = 0.411765, precision = 0.686275, auc = 0.193500, f1 = 0.514706
+group 19: size = 15, anomscore = 0.118922, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002649, f1 = 0.056338
+M = 20, K = 14, F1-score = 0.285522
+************************************
+group 10: size = 51, anomscore = 0.089515, anomlbl = coffee, recall = 0.411765, precision = 0.686275, auc = 0.193500, f1 = 0.514706
+group 19: size = 15, anomscore = 0.115925, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002649, f1 = 0.056338
+M = 20, K = 16, F1-score = 0.285522
+************************************
+group 10: size = 51, anomscore = 0.089797, anomlbl = coffee, recall = 0.411765, precision = 0.686275, auc = 0.193500, f1 = 0.514706
+group 19: size = 15, anomscore = 0.113949, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002649, f1 = 0.056338
+M = 20, K = 18, F1-score = 0.285522
+************************************
+group 10: size = 51, anomscore = 0.089290, anomlbl = coffee, recall = 0.411765, precision = 0.686275, auc = 0.193500, f1 = 0.514706
+group 19: size = 15, anomscore = 0.112737, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002649, f1 = 0.056338
+M = 20, K = 20, F1-score = 0.285522
+************************************
+group 10: size = 51, anomscore = 0.089243, anomlbl = coffee, recall = 0.411765, precision = 0.686275, auc = 0.193500, f1 = 0.514706
+group 19: size = 15, anomscore = 0.112769, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002649, f1 = 0.056338
+M = 20, K = 22, F1-score = 0.285522
+************************************
+group 10: size = 51, anomscore = 0.088568, anomlbl = coffee, recall = 0.411765, precision = 0.686275, auc = 0.193500, f1 = 0.514706
+group 4: size = 15, anomscore = 0.110378, anomlbl = coffee, recall = 0.011765, precision = 0.066667, auc = 0.000392, f1 = 0.020000
+M = 20, K = 24, F1-score = 0.267353
+************************************
+group 10: size = 51, anomscore = 0.088465, anomlbl = coffee, recall = 0.411765, precision = 0.686275, auc = 0.193500, f1 = 0.514706
+group 4: size = 15, anomscore = 0.100367, anomlbl = coffee, recall = 0.011765, precision = 0.066667, auc = 0.000392, f1 = 0.020000
+M = 20, K = 26, F1-score = 0.267353
+************************************
+group 10: size = 51, anomscore = 0.087837, anomlbl = coffee, recall = 0.411765, precision = 0.686275, auc = 0.193500, f1 = 0.514706
+group 4: size = 15, anomscore = 0.088411, anomlbl = coffee, recall = 0.011765, precision = 0.066667, auc = 0.000392, f1 = 0.020000
+M = 20, K = 28, F1-score = 0.267353
+************************************
+group 6: size = 15, anomscore = 0.089112, anomlbl = coffee, recall = 0.023529, precision = 0.133333, auc = 0.001625, f1 = 0.040000
+group 13: size = 15, anomscore = 0.135119, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002466, f1 = 0.056338
+M = 22, K = 2, F1-score = 0.048169
+************************************
+group 6: size = 15, anomscore = 0.099697, anomlbl = coffee, recall = 0.023529, precision = 0.133333, auc = 0.001625, f1 = 0.040000
+group 13: size = 15, anomscore = 0.139806, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002466, f1 = 0.056338
+M = 22, K = 4, F1-score = 0.048169
+************************************
+group 6: size = 15, anomscore = 0.104798, anomlbl = coffee, recall = 0.023529, precision = 0.133333, auc = 0.001625, f1 = 0.040000
+group 13: size = 15, anomscore = 0.149115, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002466, f1 = 0.056338
+M = 22, K = 6, F1-score = 0.048169
+************************************
+group 6: size = 15, anomscore = 0.110218, anomlbl = coffee, recall = 0.023529, precision = 0.133333, auc = 0.001625, f1 = 0.040000
+group 13: size = 15, anomscore = 0.151028, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002466, f1 = 0.056338
+M = 22, K = 8, F1-score = 0.048169
+************************************
+group 6: size = 15, anomscore = 0.110760, anomlbl = coffee, recall = 0.023529, precision = 0.133333, auc = 0.001625, f1 = 0.040000
+group 13: size = 15, anomscore = 0.156576, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002466, f1 = 0.056338
+M = 22, K = 10, F1-score = 0.048169
+************************************
+group 6: size = 15, anomscore = 0.108529, anomlbl = coffee, recall = 0.023529, precision = 0.133333, auc = 0.001625, f1 = 0.040000
+group 13: size = 15, anomscore = 0.163718, anomlbl = ship, recall = 0.035714, precision = 0.133333, auc = 0.002466, f1 = 0.056338
+M = 22, K = 12, F1-score = 0.048169
+************************************
+group 6: size = 15, anomscore = 0.110218, anomlbl = coffee, recall = 0.023529, precision = 0.133333, auc = 0.001625, f1 = 0.040000
+group 8: size = 10, anomscore = 0.167384, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 22, K = 14, F1-score = 0.020000
+************************************
+group 6: size = 15, anomscore = 0.108624, anomlbl = coffee, recall = 0.023529, precision = 0.133333, auc = 0.001625, f1 = 0.040000
+group 8: size = 10, anomscore = 0.169154, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 22, K = 16, F1-score = 0.020000
+************************************
+group 6: size = 15, anomscore = 0.113311, anomlbl = coffee, recall = 0.023529, precision = 0.133333, auc = 0.001625, f1 = 0.040000
+group 8: size = 10, anomscore = 0.166284, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 22, K = 18, F1-score = 0.020000
+************************************
+group 6: size = 15, anomscore = 0.118157, anomlbl = coffee, recall = 0.023529, precision = 0.133333, auc = 0.001625, f1 = 0.040000
+group 8: size = 10, anomscore = 0.168723, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 22, K = 20, F1-score = 0.020000
+************************************
+group 6: size = 15, anomscore = 0.122429, anomlbl = coffee, recall = 0.023529, precision = 0.133333, auc = 0.001625, f1 = 0.040000
+group 15: size = 10, anomscore = 0.139933, anomlbl = ship, recall = 0.035714, precision = 0.200000, auc = 0.003770, f1 = 0.060606
+M = 22, K = 22, F1-score = 0.050303
+************************************
+group 15: size = 10, anomscore = 0.113821, anomlbl = ship, recall = 0.035714, precision = 0.200000, auc = 0.003770, f1 = 0.060606
+group 6: size = 15, anomscore = 0.126287, anomlbl = coffee, recall = 0.023529, precision = 0.133333, auc = 0.001625, f1 = 0.040000
+M = 22, K = 24, F1-score = 0.050303
+************************************
+group 15: size = 10, anomscore = 0.075849, anomlbl = ship, recall = 0.035714, precision = 0.200000, auc = 0.003770, f1 = 0.060606
+group 6: size = 15, anomscore = 0.127052, anomlbl = coffee, recall = 0.023529, precision = 0.133333, auc = 0.001625, f1 = 0.040000
+M = 22, K = 26, F1-score = 0.050303
+************************************
+group 15: size = 10, anomscore = 0.041655, anomlbl = ship, recall = 0.035714, precision = 0.200000, auc = 0.003770, f1 = 0.060606
+group 6: size = 15, anomscore = 0.128487, anomlbl = coffee, recall = 0.023529, precision = 0.133333, auc = 0.001625, f1 = 0.040000
+M = 22, K = 28, F1-score = 0.050303
+************************************
+group 8: size = 11, anomscore = 0.115951, anomlbl = ship, recall = 0.053571, precision = 0.272727, auc = 0.007991, f1 = 0.089552
+group 7: size = 13, anomscore = 0.123864, anomlbl = coffee, recall = 0.035294, precision = 0.230769, auc = 0.004388, f1 = 0.061224
+M = 24, K = 2, F1-score = 0.075388
+************************************
+group 7: size = 13, anomscore = 0.122356, anomlbl = coffee, recall = 0.035294, precision = 0.230769, auc = 0.004388, f1 = 0.061224
+group 8: size = 11, anomscore = 0.125255, anomlbl = ship, recall = 0.053571, precision = 0.272727, auc = 0.007991, f1 = 0.089552
+M = 24, K = 4, F1-score = 0.075388
+************************************
+group 7: size = 13, anomscore = 0.120516, anomlbl = coffee, recall = 0.035294, precision = 0.230769, auc = 0.004388, f1 = 0.061224
+group 8: size = 11, anomscore = 0.140776, anomlbl = ship, recall = 0.053571, precision = 0.272727, auc = 0.007991, f1 = 0.089552
+M = 24, K = 6, F1-score = 0.075388
+************************************
+group 7: size = 13, anomscore = 0.125262, anomlbl = coffee, recall = 0.035294, precision = 0.230769, auc = 0.004388, f1 = 0.061224
+group 8: size = 11, anomscore = 0.148081, anomlbl = ship, recall = 0.053571, precision = 0.272727, auc = 0.007991, f1 = 0.089552
+M = 24, K = 8, F1-score = 0.075388
+************************************
+group 7: size = 13, anomscore = 0.121988, anomlbl = coffee, recall = 0.035294, precision = 0.230769, auc = 0.004388, f1 = 0.061224
+group 8: size = 11, anomscore = 0.150733, anomlbl = ship, recall = 0.053571, precision = 0.272727, auc = 0.007991, f1 = 0.089552
+M = 24, K = 10, F1-score = 0.075388
+************************************
+group 7: size = 13, anomscore = 0.123055, anomlbl = coffee, recall = 0.035294, precision = 0.230769, auc = 0.004388, f1 = 0.061224
+group 8: size = 11, anomscore = 0.150646, anomlbl = ship, recall = 0.053571, precision = 0.272727, auc = 0.007991, f1 = 0.089552
+M = 24, K = 12, F1-score = 0.075388
+************************************
+group 7: size = 13, anomscore = 0.126918, anomlbl = coffee, recall = 0.035294, precision = 0.230769, auc = 0.004388, f1 = 0.061224
+group 8: size = 11, anomscore = 0.145385, anomlbl = ship, recall = 0.053571, precision = 0.272727, auc = 0.007991, f1 = 0.089552
+M = 24, K = 14, F1-score = 0.075388
+************************************
+group 7: size = 13, anomscore = 0.130412, anomlbl = coffee, recall = 0.035294, precision = 0.230769, auc = 0.004388, f1 = 0.061224
+group 8: size = 11, anomscore = 0.137385, anomlbl = ship, recall = 0.053571, precision = 0.272727, auc = 0.007991, f1 = 0.089552
+M = 24, K = 16, F1-score = 0.075388
+************************************
+group 8: size = 11, anomscore = 0.128212, anomlbl = ship, recall = 0.053571, precision = 0.272727, auc = 0.007991, f1 = 0.089552
+group 7: size = 13, anomscore = 0.132399, anomlbl = coffee, recall = 0.035294, precision = 0.230769, auc = 0.004388, f1 = 0.061224
+M = 24, K = 18, F1-score = 0.075388
+************************************
+group 8: size = 11, anomscore = 0.116995, anomlbl = ship, recall = 0.053571, precision = 0.272727, auc = 0.007991, f1 = 0.089552
+group 7: size = 13, anomscore = 0.135452, anomlbl = coffee, recall = 0.035294, precision = 0.230769, auc = 0.004388, f1 = 0.061224
+M = 24, K = 20, F1-score = 0.075388
+************************************
+group 8: size = 11, anomscore = 0.102430, anomlbl = ship, recall = 0.053571, precision = 0.272727, auc = 0.007991, f1 = 0.089552
+group 15: size = 28, anomscore = 0.137870, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 24, K = 22, F1-score = 0.044776
+************************************
+group 8: size = 11, anomscore = 0.049172, anomlbl = ship, recall = 0.053571, precision = 0.272727, auc = 0.007991, f1 = 0.089552
+group 15: size = 28, anomscore = 0.135889, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 24, K = 24, F1-score = 0.044776
+************************************
+group 8: size = 11, anomscore = 0.029260, anomlbl = ship, recall = 0.053571, precision = 0.272727, auc = 0.007991, f1 = 0.089552
+group 15: size = 28, anomscore = 0.133634, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 24, K = 26, F1-score = 0.044776
+************************************
+group 8: size = 11, anomscore = 0.022303, anomlbl = ship, recall = 0.053571, precision = 0.272727, auc = 0.007991, f1 = 0.089552
+group 15: size = 28, anomscore = 0.134966, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 24, K = 28, F1-score = 0.044776
+************************************
+group 18: size = 6, anomscore = 0.111430, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 7: size = 25, anomscore = 0.111449, anomlbl = coffee, recall = 0.164706, precision = 0.560000, auc = 0.058390, f1 = 0.254545
+M = 26, K = 2, F1-score = 0.127273
+************************************
+group 18: size = 6, anomscore = 0.082257, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 12: size = 24, anomscore = 0.096246, anomlbl = coffee, recall = 0.070588, precision = 0.250000, auc = 0.009644, f1 = 0.110092
+M = 26, K = 4, F1-score = 0.055046
+************************************
+group 12: size = 24, anomscore = 0.084788, anomlbl = coffee, recall = 0.070588, precision = 0.250000, auc = 0.009644, f1 = 0.110092
+group 18: size = 6, anomscore = 0.089511, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 26, K = 6, F1-score = 0.055046
+************************************
+group 12: size = 24, anomscore = 0.084748, anomlbl = coffee, recall = 0.070588, precision = 0.250000, auc = 0.009644, f1 = 0.110092
+group 18: size = 6, anomscore = 0.095728, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 26, K = 8, F1-score = 0.055046
+************************************
+group 12: size = 24, anomscore = 0.088116, anomlbl = coffee, recall = 0.070588, precision = 0.250000, auc = 0.009644, f1 = 0.110092
+group 18: size = 6, anomscore = 0.093177, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 26, K = 10, F1-score = 0.055046
+************************************
+group 18: size = 6, anomscore = 0.090069, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 12: size = 24, anomscore = 0.090288, anomlbl = coffee, recall = 0.070588, precision = 0.250000, auc = 0.009644, f1 = 0.110092
+M = 26, K = 12, F1-score = 0.055046
+************************************
+group 18: size = 6, anomscore = 0.080344, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 12: size = 24, anomscore = 0.093954, anomlbl = coffee, recall = 0.070588, precision = 0.250000, auc = 0.009644, f1 = 0.110092
+M = 26, K = 14, F1-score = 0.055046
+************************************
+group 18: size = 6, anomscore = 0.076279, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 12: size = 24, anomscore = 0.097242, anomlbl = coffee, recall = 0.070588, precision = 0.250000, auc = 0.009644, f1 = 0.110092
+M = 26, K = 16, F1-score = 0.055046
+************************************
+group 18: size = 6, anomscore = 0.073490, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 12: size = 24, anomscore = 0.101088, anomlbl = coffee, recall = 0.070588, precision = 0.250000, auc = 0.009644, f1 = 0.110092
+M = 26, K = 18, F1-score = 0.055046
+************************************
+group 18: size = 6, anomscore = 0.067910, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 12: size = 24, anomscore = 0.103997, anomlbl = coffee, recall = 0.070588, precision = 0.250000, auc = 0.009644, f1 = 0.110092
+M = 26, K = 20, F1-score = 0.055046
+************************************
+group 18: size = 6, anomscore = 0.055396, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 12: size = 24, anomscore = 0.106687, anomlbl = coffee, recall = 0.070588, precision = 0.250000, auc = 0.009644, f1 = 0.110092
+M = 26, K = 22, F1-score = 0.055046
+************************************
+group 18: size = 6, anomscore = 0.043281, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 20: size = 16, anomscore = 0.105033, anomlbl = coffee, recall = 0.094118, precision = 0.500000, auc = 0.028789, f1 = 0.158416
+M = 26, K = 24, F1-score = 0.079208
+************************************
+group 18: size = 6, anomscore = 0.033078, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 20: size = 16, anomscore = 0.101417, anomlbl = coffee, recall = 0.094118, precision = 0.500000, auc = 0.028789, f1 = 0.158416
+M = 26, K = 26, F1-score = 0.079208
+************************************
+group 18: size = 6, anomscore = 0.020564, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 11: size = 14, anomscore = 0.086254, anomlbl = coffee, recall = 0.011765, precision = 0.071429, auc = 0.000420, f1 = 0.020202
+M = 26, K = 28, F1-score = 0.010101
+************************************
+group 24: size = 5, anomscore = 0.055189, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 19: size = 12, anomscore = 0.091463, anomlbl = coffee, recall = 0.047059, precision = 0.333333, auc = 0.008829, f1 = 0.082474
+M = 28, K = 2, F1-score = 0.041237
+************************************
+group 24: size = 5, anomscore = 0.063989, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 19: size = 12, anomscore = 0.101108, anomlbl = coffee, recall = 0.047059, precision = 0.333333, auc = 0.008829, f1 = 0.082474
+M = 28, K = 4, F1-score = 0.041237
+************************************
+group 24: size = 5, anomscore = 0.070493, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 19: size = 12, anomscore = 0.108959, anomlbl = coffee, recall = 0.047059, precision = 0.333333, auc = 0.008829, f1 = 0.082474
+M = 28, K = 6, F1-score = 0.041237
+************************************
+group 24: size = 5, anomscore = 0.068484, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 19: size = 12, anomscore = 0.110832, anomlbl = coffee, recall = 0.047059, precision = 0.333333, auc = 0.008829, f1 = 0.082474
+M = 28, K = 8, F1-score = 0.041237
+************************************
+group 24: size = 5, anomscore = 0.064849, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 19: size = 12, anomscore = 0.113582, anomlbl = coffee, recall = 0.047059, precision = 0.333333, auc = 0.008829, f1 = 0.082474
+M = 28, K = 10, F1-score = 0.041237
+************************************
+group 24: size = 5, anomscore = 0.061119, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 19: size = 12, anomscore = 0.104695, anomlbl = coffee, recall = 0.047059, precision = 0.333333, auc = 0.008829, f1 = 0.082474
+M = 28, K = 12, F1-score = 0.041237
+************************************
+group 24: size = 5, anomscore = 0.057771, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 19: size = 12, anomscore = 0.107524, anomlbl = coffee, recall = 0.047059, precision = 0.333333, auc = 0.008829, f1 = 0.082474
+M = 28, K = 14, F1-score = 0.041237
+************************************
+group 24: size = 5, anomscore = 0.057006, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 0: size = 9, anomscore = 0.085127, anomlbl = ship, recall = 0.017857, precision = 0.111111, auc = 0.000992, f1 = 0.030769
+M = 28, K = 16, F1-score = 0.015385
+************************************
+group 24: size = 5, anomscore = 0.058728, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 0: size = 9, anomscore = 0.072321, anomlbl = ship, recall = 0.017857, precision = 0.111111, auc = 0.000992, f1 = 0.030769
+M = 28, K = 18, F1-score = 0.015385
+************************************
+group 24: size = 5, anomscore = 0.058441, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 0: size = 9, anomscore = 0.063818, anomlbl = ship, recall = 0.017857, precision = 0.111111, auc = 0.000992, f1 = 0.030769
+M = 28, K = 20, F1-score = 0.015385
+************************************
+group 0: size = 9, anomscore = 0.054573, anomlbl = ship, recall = 0.017857, precision = 0.111111, auc = 0.000992, f1 = 0.030769
+group 24: size = 5, anomscore = 0.058345, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 28, K = 22, F1-score = 0.015385
+************************************
+group 0: size = 9, anomscore = 0.040916, anomlbl = ship, recall = 0.017857, precision = 0.111111, auc = 0.000992, f1 = 0.030769
+group 24: size = 5, anomscore = 0.058154, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 28, K = 24, F1-score = 0.015385
+************************************
+group 0: size = 9, anomscore = 0.031617, anomlbl = ship, recall = 0.017857, precision = 0.111111, auc = 0.000992, f1 = 0.030769
+group 24: size = 5, anomscore = 0.056911, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 28, K = 26, F1-score = 0.015385
+************************************
+group 0: size = 9, anomscore = 0.024922, anomlbl = ship, recall = 0.017857, precision = 0.111111, auc = 0.000992, f1 = 0.030769
+group 24: size = 5, anomscore = 0.060736, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 28, K = 28, F1-score = 0.015385
+************************************
+group 3: size = 15, anomscore = 0.077315, anomlbl = ship, recall = 0.178571, precision = 0.666667, auc = 0.080218, f1 = 0.281690
+group 17: size = 13, anomscore = 0.105544, anomlbl = coffee, recall = 0.023529, precision = 0.153846, auc = 0.001885, f1 = 0.040816
+M = 30, K = 2, F1-score = 0.161253
+************************************
+group 3: size = 15, anomscore = 0.084585, anomlbl = ship, recall = 0.178571, precision = 0.666667, auc = 0.080218, f1 = 0.281690
+group 17: size = 13, anomscore = 0.104440, anomlbl = coffee, recall = 0.023529, precision = 0.153846, auc = 0.001885, f1 = 0.040816
+M = 30, K = 4, F1-score = 0.161253
+************************************
+group 3: size = 15, anomscore = 0.096860, anomlbl = ship, recall = 0.178571, precision = 0.666667, auc = 0.080218, f1 = 0.281690
+group 17: size = 13, anomscore = 0.103741, anomlbl = coffee, recall = 0.023529, precision = 0.153846, auc = 0.001885, f1 = 0.040816
+M = 30, K = 6, F1-score = 0.161253
+************************************
+group 7: size = 3, anomscore = 0.100590, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 3: size = 15, anomscore = 0.105053, anomlbl = ship, recall = 0.178571, precision = 0.666667, auc = 0.080218, f1 = 0.281690
+M = 30, K = 8, F1-score = 0.140845
+************************************
+group 7: size = 3, anomscore = 0.105691, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 17: size = 13, anomscore = 0.106611, anomlbl = coffee, recall = 0.023529, precision = 0.153846, auc = 0.001885, f1 = 0.040816
+M = 30, K = 10, F1-score = 0.020408
+************************************
+group 7: size = 3, anomscore = 0.047186, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 17: size = 13, anomscore = 0.108671, anomlbl = coffee, recall = 0.023529, precision = 0.153846, auc = 0.001885, f1 = 0.040816
+M = 30, K = 12, F1-score = 0.020408
+************************************
+group 7: size = 3, anomscore = 0.033477, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 17: size = 13, anomscore = 0.109333, anomlbl = coffee, recall = 0.023529, precision = 0.153846, auc = 0.001885, f1 = 0.040816
+M = 30, K = 14, F1-score = 0.020408
+************************************
+group 7: size = 3, anomscore = 0.012753, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 3: size = 15, anomscore = 0.098549, anomlbl = ship, recall = 0.178571, precision = 0.666667, auc = 0.080218, f1 = 0.281690
+M = 30, K = 16, F1-score = 0.140845
+************************************
+group 7: size = 3, anomscore = 0.011478, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 3: size = 15, anomscore = 0.064212, anomlbl = ship, recall = 0.178571, precision = 0.666667, auc = 0.080218, f1 = 0.281690
+M = 30, K = 18, F1-score = 0.140845
+************************************
+group 7: size = 3, anomscore = 0.018651, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+group 3: size = 15, anomscore = 0.050662, anomlbl = ship, recall = 0.178571, precision = 0.666667, auc = 0.080218, f1 = 0.281690
+M = 30, K = 20, F1-score = 0.140845
+************************************
+group 3: size = 15, anomscore = 0.015623, anomlbl = ship, recall = 0.178571, precision = 0.666667, auc = 0.080218, f1 = 0.281690
+group 7: size = 3, anomscore = 0.019927, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 30, K = 22, F1-score = 0.140845
+************************************
+group 3: size = 15, anomscore = 0.014666, anomlbl = ship, recall = 0.178571, precision = 0.666667, auc = 0.080218, f1 = 0.281690
+group 7: size = 3, anomscore = 0.019130, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 30, K = 24, F1-score = 0.140845
+************************************
+group 3: size = 15, anomscore = 0.014921, anomlbl = ship, recall = 0.178571, precision = 0.666667, auc = 0.080218, f1 = 0.281690
+group 7: size = 3, anomscore = 0.018811, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 30, K = 26, F1-score = 0.140845
+************************************
+group 3: size = 15, anomscore = 0.015144, anomlbl = ship, recall = 0.178571, precision = 0.666667, auc = 0.080218, f1 = 0.281690
+group 7: size = 3, anomscore = 0.017695, anomlbl = coffee, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 30, K = 28, F1-score = 0.140845
+############################################
+Best F1-score: M = 20, K = 2, F1-score = 0.285522

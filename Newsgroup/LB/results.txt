@@ -1,0 +1,38 @@
+************************************
+group 5: size = 176, anomscore = -8.158926, anomlbl = talk.politics.mideast, recall = 0.944954, precision = 0.585227, auc = 0.355571, f1 = 0.722807
+group 11: size = 102, anomscore = -8.029229, anomlbl = rec.sport.hockey, recall = 0.026846, precision = 0.039216, auc = 0.000533, f1 = 0.031873
+M = 14, F1-score = 0.377340
+************************************
+group 15: size = 86, anomscore = -8.190868, anomlbl = talk.politics.mideast, recall = 0.119266, precision = 0.151163, auc = 0.009503, f1 = 0.133333
+group 0: size = 170, anomscore = -8.052979, anomlbl = talk.politics.mideast, recall = 0.330275, precision = 0.211765, auc = 0.037737, f1 = 0.258065
+M = 16, F1-score = 0.195699
+************************************
+group 17: size = 85, anomscore = -8.201750, anomlbl = rec.sport.hockey, recall = 0.080537, precision = 0.141176, auc = 0.006123, f1 = 0.102564
+group 1: size = 135, anomscore = -8.132012, anomlbl = talk.politics.mideast, recall = 0.550459, precision = 0.444444, auc = 0.146011, f1 = 0.491803
+M = 18, F1-score = 0.297184
+************************************
+group 3: size = 119, anomscore = -8.228847, anomlbl = talk.politics.mideast, recall = 0.752294, precision = 0.689076, auc = 0.355728, f1 = 0.719298
+group 8: size = 106, anomscore = -8.023286, anomlbl = rec.sport.hockey, recall = 0.362416, precision = 0.509434, auc = 0.113857, f1 = 0.423529
+M = 20, F1-score = 0.571414
+************************************
+group 0: size = 48, anomscore = -8.225082, anomlbl = talk.politics.mideast, recall = 0.082569, precision = 0.187500, auc = 0.008269, f1 = 0.114650
+group 8: size = 106, anomscore = -8.123944, anomlbl = talk.politics.mideast, recall = 0.348624, precision = 0.358491, auc = 0.071669, f1 = 0.353488
+M = 22, F1-score = 0.234069
+************************************
+group 5: size = 18, anomscore = -8.329967, anomlbl = rec.sport.hockey, recall = 0.013423, precision = 0.111111, auc = 0.000814, f1 = 0.023952
+group 18: size = 111, anomscore = -8.277494, anomlbl = talk.politics.mideast, recall = 0.853211, precision = 0.837838, auc = 0.552758, f1 = 0.845455
+M = 24, F1-score = 0.434703
+************************************
+group 5: size = 37, anomscore = -8.345990, anomlbl = rec.sport.hockey, recall = 0.046980, precision = 0.189189, auc = 0.004748, f1 = 0.075269
+group 23: size = 61, anomscore = -8.174276, anomlbl = talk.politics.mideast, recall = 0.376147, precision = 0.672131, auc = 0.171500, f1 = 0.482353
+M = 26, F1-score = 0.278811
+************************************
+group 22: size = 37, anomscore = -8.145623, anomlbl = talk.politics.mideast, recall = 0.018349, precision = 0.054054, auc = 0.000503, f1 = 0.027397
+group 13: size = 60, anomscore = -8.105926, anomlbl = talk.politics.mideast, recall = 0.064220, precision = 0.116667, auc = 0.003898, f1 = 0.082840
+M = 28, F1-score = 0.055119
+************************************
+group 19: size = 42, anomscore = -8.284130, anomlbl = talk.politics.mideast, recall = 0.321101, precision = 0.833333, auc = 0.205928, f1 = 0.463576
+group 10: size = 19, anomscore = -8.284116, anomlbl = rec.sport.hockey, recall = 0.033557, precision = 0.263158, auc = 0.004845, f1 = 0.059524
+M = 30, F1-score = 0.261550
+############################################
+Best F1-score: M = 20, F1-score = 0.571414
