@@ -1,0 +1,450 @@
+************************************
+group 1: size = 230, anomscore = 0.225025, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 2: size = 430, anomscore = 0.415609, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 6, K = 2, F1-score = 0.180602
+************************************
+group 1: size = 230, anomscore = 0.221884, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 2: size = 430, anomscore = 0.420128, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 6, K = 4, F1-score = 0.180602
+************************************
+group 1: size = 230, anomscore = 0.219009, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 2: size = 430, anomscore = 0.418385, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 6, K = 6, F1-score = 0.180602
+************************************
+group 1: size = 230, anomscore = 0.217951, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 2: size = 430, anomscore = 0.419218, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 6, K = 8, F1-score = 0.180602
+************************************
+group 1: size = 230, anomscore = 0.217272, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 2: size = 430, anomscore = 0.418266, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 6, K = 10, F1-score = 0.180602
+************************************
+group 1: size = 230, anomscore = 0.218151, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 2: size = 430, anomscore = 0.419199, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 6, K = 12, F1-score = 0.180602
+************************************
+group 1: size = 230, anomscore = 0.213986, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 2: size = 430, anomscore = 0.419709, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 6, K = 14, F1-score = 0.180602
+************************************
+group 1: size = 230, anomscore = 0.213787, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 2: size = 430, anomscore = 0.420836, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 6, K = 16, F1-score = 0.180602
+************************************
+group 1: size = 230, anomscore = 0.215245, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 2: size = 430, anomscore = 0.421449, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 6, K = 18, F1-score = 0.180602
+************************************
+group 1: size = 230, anomscore = 0.214736, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 2: size = 430, anomscore = 0.422962, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 6, K = 20, F1-score = 0.180602
+************************************
+group 1: size = 230, anomscore = 0.215178, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 2: size = 430, anomscore = 0.422125, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 6, K = 22, F1-score = 0.180602
+************************************
+group 1: size = 230, anomscore = 0.215916, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 2: size = 430, anomscore = 0.421428, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 6, K = 24, F1-score = 0.180602
+************************************
+group 1: size = 230, anomscore = 0.215826, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 2: size = 430, anomscore = 0.420078, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 6, K = 26, F1-score = 0.180602
+************************************
+group 1: size = 230, anomscore = 0.215893, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 2: size = 430, anomscore = 0.418954, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 6, K = 28, F1-score = 0.180602
+************************************
+group 4: size = 230, anomscore = 0.225025, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 6: size = 430, anomscore = 0.367713, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 8, K = 2, F1-score = 0.180602
+************************************
+group 4: size = 230, anomscore = 0.221884, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 6: size = 430, anomscore = 0.368944, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 8, K = 4, F1-score = 0.180602
+************************************
+group 4: size = 230, anomscore = 0.219009, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 6: size = 430, anomscore = 0.368642, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 8, K = 6, F1-score = 0.180602
+************************************
+group 4: size = 230, anomscore = 0.217951, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 6: size = 430, anomscore = 0.369787, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 8, K = 8, F1-score = 0.180602
+************************************
+group 4: size = 230, anomscore = 0.217272, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 6: size = 430, anomscore = 0.368416, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 8, K = 10, F1-score = 0.180602
+************************************
+group 4: size = 230, anomscore = 0.218151, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 6: size = 430, anomscore = 0.367990, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 8, K = 12, F1-score = 0.180602
+************************************
+group 4: size = 230, anomscore = 0.213986, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 6: size = 430, anomscore = 0.368618, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 8, K = 14, F1-score = 0.180602
+************************************
+group 4: size = 230, anomscore = 0.213787, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 6: size = 430, anomscore = 0.369860, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 8, K = 16, F1-score = 0.180602
+************************************
+group 4: size = 230, anomscore = 0.215245, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 6: size = 430, anomscore = 0.370217, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 8, K = 18, F1-score = 0.180602
+************************************
+group 4: size = 230, anomscore = 0.214736, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 6: size = 430, anomscore = 0.370981, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 8, K = 20, F1-score = 0.180602
+************************************
+group 4: size = 230, anomscore = 0.215178, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 6: size = 430, anomscore = 0.370353, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 8, K = 22, F1-score = 0.180602
+************************************
+group 4: size = 230, anomscore = 0.215916, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 6: size = 430, anomscore = 0.370294, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 8, K = 24, F1-score = 0.180602
+************************************
+group 4: size = 230, anomscore = 0.215826, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 6: size = 430, anomscore = 0.370674, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 8, K = 26, F1-score = 0.180602
+************************************
+group 4: size = 230, anomscore = 0.215893, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 6: size = 430, anomscore = 0.370822, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 8, K = 28, F1-score = 0.180602
+************************************
+group 9: size = 33, anomscore = 0.182000, anomlbl = 10, recall = 0.333333, precision = 0.303030, auc = 0.056494, f1 = 0.317460
+group 1: size = 196, anomscore = 0.233417, anomlbl = 10, recall = 0.633333, precision = 0.096939, auc = 0.031737, f1 = 0.168142
+M = 10, K = 2, F1-score = 0.242801
+************************************
+group 9: size = 33, anomscore = 0.170515, anomlbl = 10, recall = 0.333333, precision = 0.303030, auc = 0.056494, f1 = 0.317460
+group 1: size = 196, anomscore = 0.231665, anomlbl = 10, recall = 0.633333, precision = 0.096939, auc = 0.031737, f1 = 0.168142
+M = 10, K = 4, F1-score = 0.242801
+************************************
+group 9: size = 33, anomscore = 0.160869, anomlbl = 10, recall = 0.333333, precision = 0.303030, auc = 0.056494, f1 = 0.317460
+group 1: size = 196, anomscore = 0.229915, anomlbl = 10, recall = 0.633333, precision = 0.096939, auc = 0.031737, f1 = 0.168142
+M = 10, K = 6, F1-score = 0.242801
+************************************
+group 9: size = 33, anomscore = 0.163838, anomlbl = 10, recall = 0.333333, precision = 0.303030, auc = 0.056494, f1 = 0.317460
+group 1: size = 196, anomscore = 0.228173, anomlbl = 10, recall = 0.633333, precision = 0.096939, auc = 0.031737, f1 = 0.168142
+M = 10, K = 8, F1-score = 0.242801
+************************************
+group 9: size = 33, anomscore = 0.166172, anomlbl = 10, recall = 0.333333, precision = 0.303030, auc = 0.056494, f1 = 0.317460
+group 1: size = 196, anomscore = 0.226985, anomlbl = 10, recall = 0.633333, precision = 0.096939, auc = 0.031737, f1 = 0.168142
+M = 10, K = 10, F1-score = 0.242801
+************************************
+group 9: size = 33, anomscore = 0.164697, anomlbl = 10, recall = 0.333333, precision = 0.303030, auc = 0.056494, f1 = 0.317460
+group 1: size = 196, anomscore = 0.228264, anomlbl = 10, recall = 0.633333, precision = 0.096939, auc = 0.031737, f1 = 0.168142
+M = 10, K = 12, F1-score = 0.242801
+************************************
+group 9: size = 33, anomscore = 0.159424, anomlbl = 10, recall = 0.333333, precision = 0.303030, auc = 0.056494, f1 = 0.317460
+group 1: size = 196, anomscore = 0.224264, anomlbl = 10, recall = 0.633333, precision = 0.096939, auc = 0.031737, f1 = 0.168142
+M = 10, K = 14, F1-score = 0.242801
+************************************
+group 9: size = 33, anomscore = 0.161030, anomlbl = 10, recall = 0.333333, precision = 0.303030, auc = 0.056494, f1 = 0.317460
+group 1: size = 196, anomscore = 0.223760, anomlbl = 10, recall = 0.633333, precision = 0.096939, auc = 0.031737, f1 = 0.168142
+M = 10, K = 16, F1-score = 0.242801
+************************************
+group 9: size = 33, anomscore = 0.161556, anomlbl = 10, recall = 0.333333, precision = 0.303030, auc = 0.056494, f1 = 0.317460
+group 1: size = 196, anomscore = 0.225383, anomlbl = 10, recall = 0.633333, precision = 0.096939, auc = 0.031737, f1 = 0.168142
+M = 10, K = 18, F1-score = 0.242801
+************************************
+group 9: size = 33, anomscore = 0.163455, anomlbl = 10, recall = 0.333333, precision = 0.303030, auc = 0.056494, f1 = 0.317460
+group 1: size = 196, anomscore = 0.224466, anomlbl = 10, recall = 0.633333, precision = 0.096939, auc = 0.031737, f1 = 0.168142
+M = 10, K = 20, F1-score = 0.242801
+************************************
+group 9: size = 33, anomscore = 0.165364, anomlbl = 10, recall = 0.333333, precision = 0.303030, auc = 0.056494, f1 = 0.317460
+group 1: size = 196, anomscore = 0.224663, anomlbl = 10, recall = 0.633333, precision = 0.096939, auc = 0.031737, f1 = 0.168142
+M = 10, K = 22, F1-score = 0.242801
+************************************
+group 9: size = 33, anomscore = 0.167465, anomlbl = 10, recall = 0.333333, precision = 0.303030, auc = 0.056494, f1 = 0.317460
+group 1: size = 196, anomscore = 0.225175, anomlbl = 10, recall = 0.633333, precision = 0.096939, auc = 0.031737, f1 = 0.168142
+M = 10, K = 24, F1-score = 0.242801
+************************************
+group 9: size = 33, anomscore = 0.169212, anomlbl = 10, recall = 0.333333, precision = 0.303030, auc = 0.056494, f1 = 0.317460
+group 1: size = 196, anomscore = 0.224776, anomlbl = 10, recall = 0.633333, precision = 0.096939, auc = 0.031737, f1 = 0.168142
+M = 10, K = 26, F1-score = 0.242801
+************************************
+group 9: size = 33, anomscore = 0.171010, anomlbl = 10, recall = 0.333333, precision = 0.303030, auc = 0.056494, f1 = 0.317460
+group 1: size = 196, anomscore = 0.224551, anomlbl = 10, recall = 0.633333, precision = 0.096939, auc = 0.031737, f1 = 0.168142
+M = 10, K = 28, F1-score = 0.242801
+************************************
+group 9: size = 230, anomscore = 0.225025, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 7: size = 430, anomscore = 0.386677, anomlbl = 11, recall = 1.000000, precision = 0.069767, auc = 0.035724, f1 = 0.130435
+M = 12, K = 2, F1-score = 0.180602
+************************************
+group 9: size = 230, anomscore = 0.221884, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 200, anomscore = 0.386155, anomlbl = 11, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 12, K = 4, F1-score = 0.115385
+************************************
+group 9: size = 230, anomscore = 0.219009, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 200, anomscore = 0.385137, anomlbl = 11, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 12, K = 6, F1-score = 0.115385
+************************************
+group 9: size = 230, anomscore = 0.217951, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 200, anomscore = 0.387113, anomlbl = 11, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 12, K = 8, F1-score = 0.115385
+************************************
+group 9: size = 230, anomscore = 0.217272, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 200, anomscore = 0.385197, anomlbl = 11, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 12, K = 10, F1-score = 0.115385
+************************************
+group 9: size = 230, anomscore = 0.218151, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 200, anomscore = 0.385227, anomlbl = 11, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 12, K = 12, F1-score = 0.115385
+************************************
+group 9: size = 230, anomscore = 0.213986, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 200, anomscore = 0.384450, anomlbl = 11, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 12, K = 14, F1-score = 0.115385
+************************************
+group 9: size = 230, anomscore = 0.213787, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 200, anomscore = 0.386122, anomlbl = 11, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 12, K = 16, F1-score = 0.115385
+************************************
+group 9: size = 230, anomscore = 0.215245, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 200, anomscore = 0.385815, anomlbl = 11, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 12, K = 18, F1-score = 0.115385
+************************************
+group 9: size = 230, anomscore = 0.214736, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 200, anomscore = 0.386408, anomlbl = 11, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 12, K = 20, F1-score = 0.115385
+************************************
+group 9: size = 230, anomscore = 0.215178, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 200, anomscore = 0.386342, anomlbl = 11, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 12, K = 22, F1-score = 0.115385
+************************************
+group 9: size = 230, anomscore = 0.215916, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 200, anomscore = 0.385743, anomlbl = 11, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 12, K = 24, F1-score = 0.115385
+************************************
+group 9: size = 230, anomscore = 0.215826, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 200, anomscore = 0.386473, anomlbl = 11, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 12, K = 26, F1-score = 0.115385
+************************************
+group 9: size = 230, anomscore = 0.215893, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 200, anomscore = 0.387648, anomlbl = 11, recall = 0.000000, precision = 0.000000, auc = 0.000000, f1 = 0.000000
+M = 12, K = 28, F1-score = 0.115385
+************************************
+group 8: size = 230, anomscore = 0.225025, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 230, anomscore = 0.348758, anomlbl = 11, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+M = 14, K = 2, F1-score = 0.230769
+************************************
+group 8: size = 230, anomscore = 0.221884, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 230, anomscore = 0.353978, anomlbl = 11, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+M = 14, K = 4, F1-score = 0.230769
+************************************
+group 8: size = 230, anomscore = 0.219009, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 230, anomscore = 0.354299, anomlbl = 11, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+M = 14, K = 6, F1-score = 0.230769
+************************************
+group 8: size = 230, anomscore = 0.217951, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 230, anomscore = 0.354720, anomlbl = 11, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+M = 14, K = 8, F1-score = 0.230769
+************************************
+group 8: size = 230, anomscore = 0.217272, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 230, anomscore = 0.353823, anomlbl = 11, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+M = 14, K = 10, F1-score = 0.230769
+************************************
+group 8: size = 230, anomscore = 0.218151, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 230, anomscore = 0.353001, anomlbl = 11, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+M = 14, K = 12, F1-score = 0.230769
+************************************
+group 8: size = 230, anomscore = 0.213986, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 230, anomscore = 0.354851, anomlbl = 11, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+M = 14, K = 14, F1-score = 0.230769
+************************************
+group 8: size = 230, anomscore = 0.213787, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 230, anomscore = 0.355719, anomlbl = 11, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+M = 14, K = 16, F1-score = 0.230769
+************************************
+group 8: size = 230, anomscore = 0.215245, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 230, anomscore = 0.356654, anomlbl = 11, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+M = 14, K = 18, F1-score = 0.230769
+************************************
+group 8: size = 230, anomscore = 0.214736, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 230, anomscore = 0.357565, anomlbl = 11, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+M = 14, K = 20, F1-score = 0.230769
+************************************
+group 8: size = 230, anomscore = 0.215178, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 230, anomscore = 0.356449, anomlbl = 11, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+M = 14, K = 22, F1-score = 0.230769
+************************************
+group 8: size = 230, anomscore = 0.215916, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 230, anomscore = 0.356859, anomlbl = 11, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+M = 14, K = 24, F1-score = 0.230769
+************************************
+group 8: size = 230, anomscore = 0.215826, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 230, anomscore = 0.356935, anomlbl = 11, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+M = 14, K = 26, F1-score = 0.230769
+************************************
+group 8: size = 230, anomscore = 0.215893, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 11: size = 230, anomscore = 0.356191, anomlbl = 11, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+M = 14, K = 28, F1-score = 0.230769
+************************************
+group 3: size = 230, anomscore = 0.225025, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 9: size = 84, anomscore = 0.307964, anomlbl = 11, recall = 0.333333, precision = 0.119048, auc = 0.020671, f1 = 0.175439
+M = 16, K = 2, F1-score = 0.203104
+************************************
+group 3: size = 230, anomscore = 0.221884, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 9: size = 84, anomscore = 0.315294, anomlbl = 11, recall = 0.333333, precision = 0.119048, auc = 0.020671, f1 = 0.175439
+M = 16, K = 4, F1-score = 0.203104
+************************************
+group 3: size = 230, anomscore = 0.219009, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 9: size = 84, anomscore = 0.319516, anomlbl = 11, recall = 0.333333, precision = 0.119048, auc = 0.020671, f1 = 0.175439
+M = 16, K = 6, F1-score = 0.203104
+************************************
+group 3: size = 230, anomscore = 0.217951, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 9: size = 84, anomscore = 0.320730, anomlbl = 11, recall = 0.333333, precision = 0.119048, auc = 0.020671, f1 = 0.175439
+M = 16, K = 8, F1-score = 0.203104
+************************************
+group 3: size = 230, anomscore = 0.217272, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 9: size = 84, anomscore = 0.320651, anomlbl = 11, recall = 0.333333, precision = 0.119048, auc = 0.020671, f1 = 0.175439
+M = 16, K = 10, F1-score = 0.203104
+************************************
+group 3: size = 230, anomscore = 0.218151, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 9: size = 84, anomscore = 0.316913, anomlbl = 11, recall = 0.333333, precision = 0.119048, auc = 0.020671, f1 = 0.175439
+M = 16, K = 12, F1-score = 0.203104
+************************************
+group 3: size = 230, anomscore = 0.213986, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 9: size = 84, anomscore = 0.320333, anomlbl = 11, recall = 0.333333, precision = 0.119048, auc = 0.020671, f1 = 0.175439
+M = 16, K = 14, F1-score = 0.203104
+************************************
+group 3: size = 230, anomscore = 0.213787, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 9: size = 84, anomscore = 0.321345, anomlbl = 11, recall = 0.333333, precision = 0.119048, auc = 0.020671, f1 = 0.175439
+M = 16, K = 16, F1-score = 0.203104
+************************************
+group 3: size = 230, anomscore = 0.215245, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 9: size = 84, anomscore = 0.321563, anomlbl = 11, recall = 0.333333, precision = 0.119048, auc = 0.020671, f1 = 0.175439
+M = 16, K = 18, F1-score = 0.203104
+************************************
+group 3: size = 230, anomscore = 0.214736, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 9: size = 84, anomscore = 0.320798, anomlbl = 11, recall = 0.333333, precision = 0.119048, auc = 0.020671, f1 = 0.175439
+M = 16, K = 20, F1-score = 0.203104
+************************************
+group 3: size = 230, anomscore = 0.215178, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 9: size = 84, anomscore = 0.319944, anomlbl = 11, recall = 0.333333, precision = 0.119048, auc = 0.020671, f1 = 0.175439
+M = 16, K = 22, F1-score = 0.203104
+************************************
+group 3: size = 230, anomscore = 0.215916, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 9: size = 84, anomscore = 0.320659, anomlbl = 11, recall = 0.333333, precision = 0.119048, auc = 0.020671, f1 = 0.175439
+M = 16, K = 24, F1-score = 0.203104
+************************************
+group 3: size = 230, anomscore = 0.215826, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 9: size = 84, anomscore = 0.320944, anomlbl = 11, recall = 0.333333, precision = 0.119048, auc = 0.020671, f1 = 0.175439
+M = 16, K = 26, F1-score = 0.203104
+************************************
+group 3: size = 230, anomscore = 0.215893, anomlbl = 10, recall = 1.000000, precision = 0.130435, auc = 0.068250, f1 = 0.230769
+group 9: size = 84, anomscore = 0.321619, anomlbl = 11, recall = 0.333333, precision = 0.119048, auc = 0.020671, f1 = 0.175439
+M = 16, K = 28, F1-score = 0.203104
+************************************
+group 16: size = 103, anomscore = 0.192929, anomlbl = 10, recall = 0.500000, precision = 0.145631, auc = 0.038308, f1 = 0.225564
+group 12: size = 127, anomscore = 0.251055, anomlbl = 10, recall = 0.500000, precision = 0.118110, auc = 0.030758, f1 = 0.191083
+M = 18, K = 2, F1-score = 0.208323
+************************************
+group 16: size = 103, anomscore = 0.192159, anomlbl = 10, recall = 0.500000, precision = 0.145631, auc = 0.038308, f1 = 0.225564
+group 12: size = 127, anomscore = 0.245992, anomlbl = 10, recall = 0.500000, precision = 0.118110, auc = 0.030758, f1 = 0.191083
+M = 18, K = 4, F1-score = 0.208323
+************************************
+group 16: size = 103, anomscore = 0.187197, anomlbl = 10, recall = 0.500000, precision = 0.145631, auc = 0.038308, f1 = 0.225564
+group 12: size = 127, anomscore = 0.244808, anomlbl = 10, recall = 0.500000, precision = 0.118110, auc = 0.030758, f1 = 0.191083
+M = 18, K = 6, F1-score = 0.208323
+************************************
+group 16: size = 103, anomscore = 0.182767, anomlbl = 10, recall = 0.500000, precision = 0.145631, auc = 0.038308, f1 = 0.225564
+group 12: size = 127, anomscore = 0.246486, anomlbl = 10, recall = 0.500000, precision = 0.118110, auc = 0.030758, f1 = 0.191083
+M = 18, K = 8, F1-score = 0.208323
+************************************
+group 16: size = 103, anomscore = 0.183848, anomlbl = 10, recall = 0.500000, precision = 0.145631, auc = 0.038308, f1 = 0.225564
+group 12: size = 127, anomscore = 0.244381, anomlbl = 10, recall = 0.500000, precision = 0.118110, auc = 0.030758, f1 = 0.191083
+M = 18, K = 10, F1-score = 0.208323
+************************************
+group 16: size = 103, anomscore = 0.183961, anomlbl = 10, recall = 0.500000, precision = 0.145631, auc = 0.038308, f1 = 0.225564
+group 12: size = 127, anomscore = 0.245879, anomlbl = 10, recall = 0.500000, precision = 0.118110, auc = 0.030758, f1 = 0.191083
+M = 18, K = 12, F1-score = 0.208323
+************************************
+group 16: size = 103, anomscore = 0.181861, anomlbl = 10, recall = 0.500000, precision = 0.145631, auc = 0.038308, f1 = 0.225564
+group 12: size = 127, anomscore = 0.240039, anomlbl = 10, recall = 0.500000, precision = 0.118110, auc = 0.030758, f1 = 0.191083
+M = 18, K = 14, F1-score = 0.208323
+************************************
+group 16: size = 103, anomscore = 0.183126, anomlbl = 10, recall = 0.500000, precision = 0.145631, auc = 0.038308, f1 = 0.225564
+group 12: size = 127, anomscore = 0.238654, anomlbl = 10, recall = 0.500000, precision = 0.118110, auc = 0.030758, f1 = 0.191083
+M = 18, K = 16, F1-score = 0.208323
+************************************
+group 16: size = 103, anomscore = 0.185204, anomlbl = 10, recall = 0.500000, precision = 0.145631, auc = 0.038308, f1 = 0.225564
+group 12: size = 127, anomscore = 0.239609, anomlbl = 10, recall = 0.500000, precision = 0.118110, auc = 0.030758, f1 = 0.191083
+M = 18, K = 18, F1-score = 0.208323
+************************************
+group 16: size = 103, anomscore = 0.186191, anomlbl = 10, recall = 0.500000, precision = 0.145631, auc = 0.038308, f1 = 0.225564
+group 12: size = 127, anomscore = 0.237887, anomlbl = 10, recall = 0.500000, precision = 0.118110, auc = 0.030758, f1 = 0.191083
+M = 18, K = 20, F1-score = 0.208323
+************************************
+group 16: size = 103, anomscore = 0.186061, anomlbl = 10, recall = 0.500000, precision = 0.145631, auc = 0.038308, f1 = 0.225564
+group 12: size = 127, anomscore = 0.238793, anomlbl = 10, recall = 0.500000, precision = 0.118110, auc = 0.030758, f1 = 0.191083
+M = 18, K = 22, F1-score = 0.208323
+************************************
+group 16: size = 103, anomscore = 0.187000, anomlbl = 10, recall = 0.500000, precision = 0.145631, auc = 0.038308, f1 = 0.225564
+group 12: size = 127, anomscore = 0.239367, anomlbl = 10, recall = 0.500000, precision = 0.118110, auc = 0.030758, f1 = 0.191083
+M = 18, K = 24, F1-score = 0.208323
+************************************
+group 16: size = 103, anomscore = 0.187061, anomlbl = 10, recall = 0.500000, precision = 0.145631, auc = 0.038308, f1 = 0.225564
+group 12: size = 127, anomscore = 0.239155, anomlbl = 10, recall = 0.500000, precision = 0.118110, auc = 0.030758, f1 = 0.191083
+M = 18, K = 26, F1-score = 0.208323
+************************************
+group 16: size = 103, anomscore = 0.188955, anomlbl = 10, recall = 0.500000, precision = 0.145631, auc = 0.038308, f1 = 0.225564
+group 12: size = 127, anomscore = 0.237740, anomlbl = 10, recall = 0.500000, precision = 0.118110, auc = 0.030758, f1 = 0.191083
+M = 18, K = 28, F1-score = 0.208323
+************************************
+group 17: size = 99, anomscore = 0.210936, anomlbl = 10, recall = 0.600000, precision = 0.181818, auc = 0.058178, f1 = 0.279070
+group 10: size = 131, anomscore = 0.235672, anomlbl = 10, recall = 0.400000, precision = 0.091603, auc = 0.018903, f1 = 0.149068
+M = 20, K = 2, F1-score = 0.214069
+************************************
+group 17: size = 99, anomscore = 0.208909, anomlbl = 10, recall = 0.600000, precision = 0.181818, auc = 0.058178, f1 = 0.279070
+group 10: size = 131, anomscore = 0.231690, anomlbl = 10, recall = 0.400000, precision = 0.091603, auc = 0.018903, f1 = 0.149068
+M = 20, K = 4, F1-score = 0.214069
+************************************
+group 17: size = 99, anomscore = 0.198478, anomlbl = 10, recall = 0.600000, precision = 0.181818, auc = 0.058178, f1 = 0.279070
+group 10: size = 131, anomscore = 0.234524, anomlbl = 10, recall = 0.400000, precision = 0.091603, auc = 0.018903, f1 = 0.149068
+M = 20, K = 6, F1-score = 0.214069
+************************************
+group 17: size = 99, anomscore = 0.193805, anomlbl = 10, recall = 0.600000, precision = 0.181818, auc = 0.058178, f1 = 0.279070
+group 10: size = 131, anomscore = 0.236198, anomlbl = 10, recall = 0.400000, precision = 0.091603, auc = 0.018903, f1 = 0.149068
+M = 20, K = 8, F1-score = 0.214069
+************************************
+group 17: size = 99, anomscore = 0.193993, anomlbl = 10, recall = 0.600000, precision = 0.181818, auc = 0.058178, f1 = 0.279070
+group 10: size = 131, anomscore = 0.234865, anomlbl = 10, recall = 0.400000, precision = 0.091603, auc = 0.018903, f1 = 0.149068
+M = 20, K = 10, F1-score = 0.214069
+************************************
+group 17: size = 99, anomscore = 0.193219, anomlbl = 10, recall = 0.600000, precision = 0.181818, auc = 0.058178, f1 = 0.279070
+group 10: size = 131, anomscore = 0.236992, anomlbl = 10, recall = 0.400000, precision = 0.091603, auc = 0.018903, f1 = 0.149068
+M = 20, K = 12, F1-score = 0.214069
+************************************
+group 17: size = 99, anomscore = 0.189815, anomlbl = 10, recall = 0.600000, precision = 0.181818, auc = 0.058178, f1 = 0.279070
+group 10: size = 131, anomscore = 0.232252, anomlbl = 10, recall = 0.400000, precision = 0.091603, auc = 0.018903, f1 = 0.149068
+M = 20, K = 14, F1-score = 0.214069
+************************************
+group 17: size = 99, anomscore = 0.190603, anomlbl = 10, recall = 0.600000, precision = 0.181818, auc = 0.058178, f1 = 0.279070
+group 10: size = 131, anomscore = 0.231308, anomlbl = 10, recall = 0.400000, precision = 0.091603, auc = 0.018903, f1 = 0.149068
+M = 20, K = 16, F1-score = 0.214069
+************************************
+group 17: size = 99, anomscore = 0.189943, anomlbl = 10, recall = 0.600000, precision = 0.181818, auc = 0.058178, f1 = 0.279070
+group 10: size = 131, anomscore = 0.234366, anomlbl = 10, recall = 0.400000, precision = 0.091603, auc = 0.018903, f1 = 0.149068
+M = 20, K = 18, F1-score = 0.214069
+************************************
+group 17: size = 99, anomscore = 0.189852, anomlbl = 10, recall = 0.600000, precision = 0.181818, auc = 0.058178, f1 = 0.279070
+group 10: size = 131, anomscore = 0.233542, anomlbl = 10, recall = 0.400000, precision = 0.091603, auc = 0.018903, f1 = 0.149068
+M = 20, K = 20, F1-score = 0.214069
+************************************
+group 17: size = 99, anomscore = 0.190623, anomlbl = 10, recall = 0.600000, precision = 0.181818, auc = 0.058178, f1 = 0.279070
+group 10: size = 131, anomscore = 0.233735, anomlbl = 10, recall = 0.400000, precision = 0.091603, auc = 0.018903, f1 = 0.149068
+M = 20, K = 22, F1-score = 0.214069
+************************************
+group 17: size = 99, anomscore = 0.191094, anomlbl = 10, recall = 0.600000, precision = 0.181818, auc = 0.058178, f1 = 0.279070
+group 10: size = 131, anomscore = 0.234674, anomlbl = 10, recall = 0.400000, precision = 0.091603, auc = 0.018903, f1 = 0.149068
+M = 20, K = 24, F1-score = 0.214069
+************************************
+group 17: size = 99, anomscore = 0.191303, anomlbl = 10, recall = 0.600000, precision = 0.181818, auc = 0.058178, f1 = 0.279070
+group 10: size = 131, anomscore = 0.234359, anomlbl = 10, recall = 0.400000, precision = 0.091603, auc = 0.018903, f1 = 0.149068
+M = 20, K = 26, F1-score = 0.214069
+************************************
+group 17: size = 99, anomscore = 0.191626, anomlbl = 10, recall = 0.600000, precision = 0.181818, auc = 0.058178, f1 = 0.279070
+group 10: size = 131, anomscore = 0.234232, anomlbl = 10, recall = 0.400000, precision = 0.091603, auc = 0.018903, f1 = 0.149068
+M = 20, K = 28, F1-score = 0.214069
+############################################
+Best F1-score: M = 10, K = 2, F1-score = 0.242801

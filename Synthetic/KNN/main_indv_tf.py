@@ -3,25 +3,31 @@ import numpy as np
 from sklearn import svm
 from sklearn import metrics
 
-LDAPath = '/home/studadmin/Dropbox/ATDFinal/lda'
-path = '/home/studadmin/Dropbox/ATDFinal/Newsgroup'
+LDAPath = '../../lda'
+path = '../'
 
-anom_per = 20
-
+anom_per = 100
+M = 10
 seed0 = 3181914101
 np.random.seed(seed0)
-N = 33565
+
+TopN = 64
+
+N = 2998
 trainfile = path + '/data/trdocs.txt'
 testfile = path + '/data/tdocs'+str(anom_per) + '.txt'
 tlblfile = path + '/data/tlbls'+str(anom_per) + '.txt'
 
-TopN = 215
 
-
-anomlist = ['talk.politics.mideast','rec.sport.hockey']
+anomlist = ['11','10']
 fp = open(tlblfile)
 lbllist = fp.readlines()
 fp.close()
+# count total number of anomalies
+Danom = 0.0;
+for a0,anomlbl in enumerate(anomlist):
+	a = [1 for x in lbllist if anomlbl in x]
+	Danom += float(len(a))
 
 # read training docs
 fp = open(trainfile,'r')
@@ -35,8 +41,8 @@ for d,doc in enumerate(rawdocs):
 	cnts = re.findall('[0-9]*:([0-9]*)',doc)
 	total = np.sum([float(x) for x in cnts])
 	for n,w in enumerate(wrds):
-		#trX[d,int(w)] = 1.0
-		trX[d,int(w)] = float(cnts[n])/total
+		trX[d,int(w)] = float(cnts[n])
+	trX[d,:] /= np.sqrt(np.sum(trX[d,:]**2))
 
 # read test docs
 fp = open(testfile,'r')
@@ -50,36 +56,39 @@ for d,doc in enumerate(rawdocs):
 	cnts = re.findall('[0-9]*:([0-9]*)',doc)
 	total = np.sum([float(x) for x in cnts])
 	for n,w in enumerate(wrds):
-		#tX[d,int(w)] = 1.0
-		tX[d,int(w)] = float(cnts[n])/total
+		tX[d,int(w)] = float(cnts[n])
+	tX[d,:] /= np.sqrt(np.sum(tX[d,:]**2))
 
-# count total number of anomalies
-Danom = 0.0;
-for a0,anomlbl in enumerate(anomlist):
-	a = [1 for x in lbllist if anomlbl in x]
-	Danom += float(len(a))
-
-
-nulist = np.arange(1e-5, 0.4, 0.05)
-F1score = np.zeros(len(nulist))
-fpres = open('results_indv.txt','w')
+Klist = np.arange(2,30,2)
+F1score = np.zeros(len(Klist))
+fpres = open('results_indv_tf.txt','w')
 fpres.write('')
 fpres.close()
-for n1,nu in enumerate(nulist):
-	# train svm
-	clf = svm.OneClassSVM(nu=nu, kernel="linear")
-	clf.fit(trX)
 
-	# test svm
-	#pred_test = clf.predict(tX)
-	anom_score = clf.decision_function(tX)[:,0]
+for n1,K in enumerate(Klist):
 
-	anom_sorted = np.argsort(anom_score)
+	# K-NN on training set
+	Rstr = np.zeros(Dtr)
+	for d in range(Dtr):
+		dist = 1.0 - np.dot(trX,trX[d,:])
+		dist[d] = 1.0
+		Rstr[d] = np.sort(dist)[K]
+	
+	# K-NN on test set
+	pval = np.zeros(Dt)
+	for d in range(Dt):
+		dist = 1.0 - np.dot(trX,tX[d,:])
+		pval[d] = np.mean(np.sort(dist)[K] < Rstr)
+		
+
+	fpres = open('results_indv_tf.txt','a')
+
+	anom_sorted = np.argsort(pval)
 
 	# compute rec, prec
 	recall = np.zeros(TopN)
 	precision = np.zeros(TopN)
-	
+
 	tp = 0.0
 	for i,ind in enumerate(anom_sorted[0:TopN]): 
 		doclbl = lbllist[ind]
@@ -93,21 +102,22 @@ for n1,nu in enumerate(nulist):
 		precision[i] = (tp/(i+1.0))
 		recall[i] = (tp/Danom)
 
-	nu_auc = metrics.auc(recall, precision)
-	nu_F1 = 0
-	if (recall[-1]+precision[-1])>0:
-		nu_F1 = 2.0*recall[-1]*precision[-1]/(recall[-1]+precision[-1])
+	step_auc = metrics.auc(recall, precision)
+	if (recall[-1]+precision[-1]) > 0:
+		step_F1 = 2.0*recall[-1]*precision[-1]/(recall[-1]+precision[-1])
+	else: 
+		step_F1 = 0.0
 
-	fpres = open('results_indv.txt','a')
-	fpres.write('recall = %f, precision = %f, auc = %f, f1 = %f\n' %(recall[-1],precision[-1],nu_auc,nu_F1))
+
+	fpres.write('recall = %f, precision = %f, auc = %f, f1 = %f\n' %(recall[-1],precision[-1],step_auc,step_F1))
+		
+	F1score[n1] = step_F1
+	print('K = %d, F1-score = %f' %(K, F1score[n1]))
+	fpres.write('K = %d, F1-score = %f\n' %(K, F1score[n1]))
 	fpres.close()
 
-	F1score[n1] = nu_F1
-	print('nu = %f, AUC = %f' %(nu, nu_auc))
-
-
-fpres = open('results_indv.txt','a')
+fpres = open('results_indv_tf.txt','a')
 fpres.write('############################################\n')
 amax = np.argmax(F1score)
-fpres.write('Best F1-score: nu = %f, F1-score = %f' %(nulist[amax],F1score[amax]))
+fpres.write('Best F1-score: K = %d, F1-score = %f' %(Klist[amax],F1score[amax]))
 fpres.close()

@@ -1,0 +1,32 @@
+recall = 0.702128, precision = 0.678082, auc = 0.538664, f1 = 0.689895
+K = 1, F1-score = 0.689895
+recall = 0.687943, precision = 0.664384, auc = 0.520419, f1 = 0.675958
+K = 2, F1-score = 0.675958
+recall = 0.687943, precision = 0.664384, auc = 0.497243, f1 = 0.675958
+K = 4, F1-score = 0.675958
+recall = 0.680851, precision = 0.657534, auc = 0.491086, f1 = 0.668990
+K = 6, F1-score = 0.668990
+recall = 0.666667, precision = 0.643836, auc = 0.470317, f1 = 0.655052
+K = 8, F1-score = 0.655052
+recall = 0.659574, precision = 0.636986, auc = 0.468961, f1 = 0.648084
+K = 10, F1-score = 0.648084
+recall = 0.666667, precision = 0.643836, auc = 0.469053, f1 = 0.655052
+K = 12, F1-score = 0.655052
+recall = 0.659574, precision = 0.636986, auc = 0.466427, f1 = 0.648084
+K = 14, F1-score = 0.648084
+recall = 0.652482, precision = 0.630137, auc = 0.457271, f1 = 0.641115
+K = 16, F1-score = 0.641115
+recall = 0.645390, precision = 0.623288, auc = 0.451892, f1 = 0.634146
+K = 18, F1-score = 0.634146
+recall = 0.652482, precision = 0.630137, auc = 0.452893, f1 = 0.641115
+K = 20, F1-score = 0.641115
+recall = 0.638298, precision = 0.616438, auc = 0.436084, f1 = 0.627178
+K = 22, F1-score = 0.627178
+recall = 0.638298, precision = 0.616438, auc = 0.435866, f1 = 0.627178
+K = 24, F1-score = 0.627178
+recall = 0.645390, precision = 0.623288, auc = 0.438129, f1 = 0.634146
+K = 26, F1-score = 0.634146
+recall = 0.638298, precision = 0.616438, auc = 0.427118, f1 = 0.627178
+K = 28, F1-score = 0.627178
+############################################
+Best F1-score: K = 1, F1-score = 0.689895
